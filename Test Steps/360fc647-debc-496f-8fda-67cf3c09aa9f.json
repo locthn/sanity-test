@@ -1,0 +1,20 @@
+{
+    "steps": [
+        "step 1: Navigate to https://stackoverflow.com/",
+        "step 2: Click on link",
+        "step 3: Click on link 'nav-companies' -> Navigate to page 'jobs/companies'",
+        "step 4: Click on input field 'q'",
+        "step 5: Enter input value in input field 'q'",
+        "step 6: Click on div",
+        "step 7: Click on svg",
+        "step 8: Click on input field 'l'",
+        "step 9: Enter input value in input field 'l'",
+        "step 10: Click on link 'Zoi TechCon GmbH' -> Navigate to page 'jobs/companies/zoi-techcon-gmbh'",
+        "step 11: Click on link 'Tags' -> Navigate to page 'tags'",
+        "step 12: Enter input value in input field 'tagfilter'",
+        "step 13: Click on link 'python-2.7' -> Navigate to page 'questions/tagged/*'",
+        "step 14: Click on link 'Active'",
+        "step 15: Click on link 'Pylint syntax error not suppressing despite the `disable` comment' -> Navigate to page 'questions/*/pylint-syntax-error-not-suppressing-despite-the-disable-comment'",
+        "step 16: Take full page screenshot as checkpoint"
+    ]
+}
