@@ -1,0 +1,12 @@
+{
+    "steps": [
+        "step 1: Navigate to https://stackoverflow.com/",
+        "step 2: Click on button",
+        "step 3: Click on button  -> Navigate to page 'customer/profile/*'",
+        "step 4: Enter input value in textarea 'note'",
+        "step 5: Click on button 'Save'",
+        "step 6: Click on link 'Appointments'",
+        "step 7: Click on link 'Appointments'",
+        "step 8: Take full page screenshot as checkpoint"
+    ]
+}

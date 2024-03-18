@@ -1,0 +1,29 @@
+{
+    "steps": [
+        "step 1: Navigate to https://stackoverflow.com/customer/add",
+        "step 2: Enter input value in input field 'firstName'",
+        "step 3: Click on input field 'lastName' -> Navigate to page 'customer/profile/*'",
+        "step 4: Click on input field ':r0:'",
+        "step 5: Enter input value in input field ':r0:'",
+        "step 6: Click on div",
+        "step 7: Enter input value in textarea 'note'",
+        "step 8: Click on button 'Save'",
+        "step 9: Enter input value in textarea 'note'",
+        "step 10: Click on button 'Save'",
+        "step 11: Click on button 'scrollable-auto-tab-2'",
+        "step 12: Enter input value in textarea 'note'",
+        "step 13: Click on button 'Save' -> Navigate to page ''",
+        "step 14: Click on link  -> Navigate to page 'customer/profile/*'",
+        "step 15: Click on button 'scrollable-auto-tab-4'",
+        "step 16: Click on button 'scrollable-auto-tab-1'",
+        "step 17: Click on svg 'EditIcon'",
+        "step 18: Enter input value in textarea 'note'",
+        "step 19: Click on button 'Save'",
+        "step 20: Click on button '+\\nAdd Note'",
+        "step 21: Click on body",
+        "step 22: Click on list item",
+        "step 23: Enter input value in textarea 'note'",
+        "step 24: Click on button 'Save'",
+        "step 25: Take full page screenshot as checkpoint"
+    ]
+}

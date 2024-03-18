@@ -1,0 +1,19 @@
+{
+    "steps": [
+        "step 1: Navigate to https://stackoverflow.com",
+        "step 2: Click on link",
+        "step 3: Click on span  -> Navigate to page '*/single-ticket/*'",
+        "step 4: Click on svg 'KeyboardArrowDownIcon'",
+        "step 5: Click on button 'Add Membership'",
+        "step 6: Click on div",
+        "step 7: Click on input field ':r45:'",
+        "step 8: Click on span",
+        "step 9: Click on input field 'Billing Date' -> Navigate to page ''",
+        "step 10: Click on span  -> Navigate to page '*/single-ticket/*'",
+        "step 11: Click on svg 'AddIcon'",
+        "step 12: Click on input field 'tip amount'",
+        "step 13: Enter input value in input field 'tip amount'",
+        "step 14: Click on button 'Save'",
+        "step 15: Take full page screenshot as checkpoint"
+    ]
+}

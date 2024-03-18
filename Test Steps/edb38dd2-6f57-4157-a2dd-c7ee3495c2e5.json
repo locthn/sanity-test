@@ -1,0 +1,22 @@
+{
+    "steps": [
+        "step 1: Navigate to https://stackoverflow.com",
+        "step 2: Click on link",
+        "step 3: Click on span  -> Navigate to page '*/single-ticket/*'",
+        "step 4: Click on button 'Checkout'",
+        "step 5: Click on button 'Ok' -> Navigate to page ''",
+        "step 6: Click on link",
+        "step 7: Click on svg  -> Navigate to page 'customer/profile/*'",
+        "step 8: Click on button 'scrollable-auto-tab-1'",
+        "step 9: Click on button",
+        "step 10: Click on svg 'KeyboardArrowRightIcon'",
+        "step 11: Click on svg 'KeyboardArrowRightIcon'",
+        "step 12: Click on svg 'KeyboardArrowRightIcon'",
+        "step 13: Click on svg 'KeyboardArrowRightIcon'",
+        "step 14: Click on svg 'KeyboardArrowRightIcon'",
+        "step 15: Click on svg 'KeyboardArrowRightIcon'",
+        "step 16: Click on button 'Print Receipt'",
+        "step 17: Click on button 'Close'",
+        "step 18: Take full page screenshot as checkpoint"
+    ]
+}

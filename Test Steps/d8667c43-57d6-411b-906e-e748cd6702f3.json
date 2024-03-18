@@ -1,0 +1,11 @@
+{
+    "steps": [
+        "step 1: Navigate to https://stackoverflow.com",
+        "step 2: Click on link",
+        "step 3: Click on span  -> Navigate to page '*/single-ticket/*'",
+        "step 4: Click on button 'Ok' -> Navigate to page 'customer/profile/*'",
+        "step 5: Click on select 'Status'",
+        "step 6: Click on select 'Status'",
+        "step 7: Take full page screenshot as checkpoint"
+    ]
+}
