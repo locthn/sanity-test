@@ -1,5 +1,5 @@
 Flow ID,Name,Description,Test Steps,Flow Priority
-4,Verify Customer Profile Page after Adding Appointments and Notes,Navigate to the customer profile page and add appointments and notes. Save the changes and verify the updated customer profile.,"step 1: Navigate to https://stackoverflow.com
+4,Verify Customer Profile after Completing Multiple Actions,"Navigate to the customer profile page and perform multiple actions such as adding notes, saving, and verifying changes. Verify the customer profile after completing the actions.","step 1: Navigate to https://stackoverflow.com
 step 2: Click on link
 step 3: Click on link  -> Navigate to page 'customer/profile/*'
 step 4: Click on button 'Cancel'
@@ -23,7 +23,7 @@ step 21: Click on link  -> Navigate to page 'customer/profile/*'
 step 22: Click on button 'scrollable-auto-tab-2'
 step 23: Click on button 'scrollable-auto-tab-3'
 step 24: Take full page screenshot as checkpoint",High
-24,Verify Single Ticket Page after Adding and Checking Out,Navigate to the single ticket page and add items. Proceed to checkout and verify the updated single ticket page.,"step 1: Navigate to https://stackoverflow.com/customer/add
+24,Verify Single Ticket and Customer Add Process,"Navigate to the customer add page, add a customer, and proceed with the checkout process. Verify the single ticket after completing the process.","step 1: Navigate to https://stackoverflow.com/customer/add
 step 2: Enter input value in input field 'firstName'
 step 3: Click on input field 'lastName'
 step 4: Click on body
@@ -39,7 +39,7 @@ step 13: Click on button 'Today' -> Navigate to page '*/single-ticket/*'
 step 14: Click on button 'Add Visa **0766'
 step 15: Click on button 'Checkout'
 step 16: Take full page screenshot as checkpoint",High
-5,Verify Customer Profile Page after Adding Tip Amount and Checkout,Navigate to the single ticket page and add a tip amount. Proceed to checkout and verify the updated customer profile.,"step 1: Navigate to https://stackoverflow.com
+5,Verify Customer Profile and Ticket Checkout Process,"Navigate to the single ticket page, make changes, and proceed with the checkout process. Verify the customer profile after completing the checkout process.","step 1: Navigate to https://stackoverflow.com
 step 2: Click on link
 step 3: Click on span  -> Navigate to page '*/single-ticket/*'
 step 4: Click on svg 'EditIcon'
@@ -55,7 +55,7 @@ step 13: Click on button 'scrollable-auto-tab-2'
 step 14: Click on button 'scrollable-auto-tab-1'
 step 15: Click on button 'scrollable-auto-tab-3'
 step 16: Take full page screenshot as checkpoint",High
-29,Verify Single Ticket Page after Adding and Selecting Membership,Navigate to the single ticket page and add/select a membership. Verify the displayed single ticket page.,"step 1: Navigate to https://stackoverflow.com/
+29,Verify Single Ticket and Membership Addition,"Navigate to the single ticket page, add a membership, and verify the single ticket after adding the membership.","step 1: Navigate to https://stackoverflow.com/
 step 2: Click on link
 step 3: Click on span  -> Navigate to page '*/single-ticket/*'
 step 4: Click on button 'Checkout'
@@ -68,7 +68,7 @@ step 10: Click on span
 step 11: Click on button 'Add Membership'
 step 12: Click on svg 'AddIcon'
 step 13: Take full page screenshot as checkpoint",High
-28,Verify Single Ticket Page after Adding and Closing Appointments,Navigate to the single ticket page and add/close appointments. Verify the displayed single ticket page.,"step 1: Navigate to https://stackoverflow.com/
+28,Verify Single Ticket and Appointment Management,"Navigate to the single ticket page, manage appointments, and verify the single ticket after managing the appointments.","step 1: Navigate to https://stackoverflow.com/
 step 2: Click on link
 step 3: Click on link  -> Navigate to page 'customer/profile/*'
 step 4: Click on button 'scrollable-auto-tab-4'
@@ -81,7 +81,7 @@ step 10: Click on button 'Close' -> Navigate to page ''
 step 11: Click on link
 step 12: Click on span  -> Navigate to page '*/single-ticket/*'
 step 13: Take full page screenshot as checkpoint",High
-27,Verify Single Ticket Page after Adding and Selecting Visa,Navigate to the single ticket page and add/select a visa. Verify the displayed single ticket page.,"step 1: Navigate to https://stackoverflow.com
+27,Verify Single Ticket and Checkout Process,"Navigate to the single ticket page, proceed with the checkout process, and verify the single ticket after completing the process.","step 1: Navigate to https://stackoverflow.com
 step 2: Click on link
 step 3: Click on span  -> Navigate to page '*/single-ticket/*'
 step 4: Click on button 'Add Visa **4112'
@@ -89,7 +89,7 @@ step 5: Click on button 'Checkout' -> Navigate to page ''
 step 6: Click on link  -> Navigate to page '*/single-ticket/*'
 step 7: Click on button 'Ok'
 step 8: Take full page screenshot as checkpoint",High
-26,Verify Single Ticket Page after Navigating and Selecting Auto Tab,Navigate to the single ticket page and select an auto tab. Verify the displayed single ticket page.,"step 1: Navigate to https://stackoverflow.com/
+26,Verify Single Ticket and Appointment Management,"Navigate to the single ticket page, manage appointments, and verify the single ticket after managing the appointments.","step 1: Navigate to https://stackoverflow.com/
 step 2: Click on span  -> Navigate to page 'customer/profile/*'
 step 3: Click on link 'Appointments' -> Navigate to page ''
 step 4: Click on div  -> Navigate to page 'customer/profile/*'
@@ -99,7 +99,7 @@ step 7: Click on button 'scrollable-auto-tab-1'
 step 8: Click on button 'scrollable-auto-tab-0' -> Navigate to page '*/single-ticket/*'
 step 9: Click on svg 'AddIcon'
 step 10: Take full page screenshot as checkpoint",High
-25,Verify Single Ticket Page after Adding Membership and Billing Date,Navigate to the single ticket page and add a membership. Add a billing date and verify the updated single ticket page.,"step 1: Navigate to https://stackoverflow.com
+25,Verify Single Ticket and Membership Addition,"Navigate to the single ticket page, add a membership, and verify the single ticket after adding the membership.","step 1: Navigate to https://stackoverflow.com
 step 2: Click on link
 step 3: Click on span  -> Navigate to page '*/single-ticket/*'
 step 4: Click on svg 'KeyboardArrowDownIcon'
@@ -114,7 +114,7 @@ step 12: Click on input field 'tip amount'
 step 13: Enter input value in input field 'tip amount'
 step 14: Click on button 'Save'
 step 15: Take full page screenshot as checkpoint",High
-23,Verify Single Ticket Page after Adding Tip Amount and Editing,Navigate to the single ticket page and add a tip amount. Edit and save the changes. Verify the updated single ticket page.,"step 1: Navigate to https://stackoverflow.com/
+23,Verify Single Ticket and Appointment Management,"Navigate to the single ticket page, manage appointments, and verify the single ticket after managing the appointments.","step 1: Navigate to https://stackoverflow.com/
 step 2: Click on link  -> Navigate to page 'customer/profile/*'
 step 3: Click on link 'Appointments' -> Navigate to page ''
 step 4: Click on button 'Select Date'
@@ -140,7 +140,7 @@ step 23: Click on svg 'EditIcon'
 step 24: Click on button 'scrollable-auto-tab-1'
 step 25: Click on svg 'EditIcon' -> Navigate to page '*/single-ticket/*'
 step 26: Take full page screenshot as checkpoint",High
-11,Verify Single Ticket Page after Checkout and Printing Receipt,Navigate to the single ticket page and proceed to checkout. Print the receipt and verify the updated single ticket page.,"step 1: Navigate to https://stackoverflow.com
+11,Verify Single Ticket and Receipt Printing Process,"Navigate to the single ticket page, proceed with the checkout process, and print the receipt. Verify the single ticket after completing the process.","step 1: Navigate to https://stackoverflow.com
 step 2: Click on link
 step 3: Click on span  -> Navigate to page '*/single-ticket/*'
 step 4: Click on button 'Checkout'
@@ -158,7 +158,7 @@ step 15: Click on svg 'KeyboardArrowRightIcon'
 step 16: Click on button 'Print Receipt'
 step 17: Click on button 'Close'
 step 18: Take full page screenshot as checkpoint",High
-10,Verify Customer Profile Page after Adding and Starting Refund,Navigate to the customer profile page and add/start a refund. Verify the displayed customer profile.,"step 1: Navigate to https://stackoverflow.com
+10,Verify Customer Profile and Refund Process,"Navigate to the customer profile page, start a refund process, and verify the customer profile after completing the process.","step 1: Navigate to https://stackoverflow.com
 step 2: Click on link
 step 3: Click on link  -> Navigate to page 'customer/profile/*'
 step 4: Click on button 'Start Refund\n'
@@ -168,12 +168,12 @@ step 7: Click on button 'scrollable-auto-tab-3'
 step 8: Click on button 'scrollable-auto-tab-2'
 step 9: Click on button 'scrollable-auto-tab-3'
 step 10: Take full page screenshot as checkpoint",High
-9,Verify Customer Profile Page after Adding and Selecting Client,Navigate to the customer profile page and add/select a client. Verify the displayed customer profile.,"step 1: Navigate to https://stackoverflow.com/customer
+9,Verify Customer Profile from Customer Page,Navigate to the customer page and verify the customer profile. Ensure the customer profile is displayed correctly.,"step 1: Navigate to https://stackoverflow.com/customer
 step 2: Enter input value in input field ':r0:'
 step 3: Click on div  -> Navigate to page 'customer/profile/*'
 step 4: Click on button 'scrollable-auto-tab-2'
 step 5: Take full page screenshot as checkpoint",High
-8,Verify Customer Profile Page after Adding and Editing Notes,Navigate to the customer profile page and add/edit notes. Save the changes and verify the updated customer profile.,"step 1: Navigate to https://stackoverflow.com/customer/add
+8,Verify Customer Profile after Adding Notes and Saving Changes,"Navigate to the customer profile page, add notes, save changes, and verify the updated customer profile.","step 1: Navigate to https://stackoverflow.com/customer/add
 step 2: Enter input value in input field 'firstName'
 step 3: Click on input field 'lastName' -> Navigate to page 'customer/profile/*'
 step 4: Click on input field ':r0:'
@@ -198,13 +198,13 @@ step 22: Click on list item
 step 23: Enter input value in textarea 'note'
 step 24: Click on button 'Save'
 step 25: Take full page screenshot as checkpoint",High
-7,Verify Customer Profile Page after Selecting Auto Tab,Navigate to the customer profile page and select an auto tab. Verify the displayed customer profile.,"step 1: Navigate to https://stackoverflow.com/manager/salesrep
+7,Verify Customer Profile from Sales Representative Manager Page,Navigate to the sales representative manager page and verify the customer profile. Ensure the customer profile is displayed correctly.,"step 1: Navigate to https://stackoverflow.com/manager/salesrep
 step 2: Click on svg 'KeyboardArrowLeftIcon' -> Navigate to page ''
 step 3: Click on link
 step 4: Click on span  -> Navigate to page 'customer/profile/*'
 step 5: Click on button 'scrollable-auto-tab-1'
 step 6: Take full page screenshot as checkpoint",High
-6,Verify Customer Profile Page after Navigating and Selecting Client,Navigate to the customer profile page and select a client. Verify the displayed customer profile.,"step 1: Navigate to https://stackoverflow.com
+6,Verify Customer Profile and Client Search,Navigate to the customer profile page and perform a client search. Verify the customer profile after performing the search.,"step 1: Navigate to https://stackoverflow.com
 step 2: Click on link
 step 3: Click on span  -> Navigate to page '*/single-ticket/*'
 step 4: Click on button 'Ok' -> Navigate to page ''
@@ -213,7 +213,7 @@ step 6: Click on link 'Clients' -> Navigate to page 'customer'
 step 7: Click on input field 'customerSearch' -> Navigate to page 'customer/profile/*'
 step 8: Click on body
 step 9: Take full page screenshot as checkpoint",High
-32,Verify Single Ticket Page after Adding and Swiping Card,Navigate to the single ticket page and add/swipe a card. Verify the updated single ticket page.,"step 1: Navigate to https://stackoverflow.com/
+32,Verify Single Ticket and Payment Process,"Navigate to the single ticket page, make a payment, and verify the single ticket after completing the payment process.","step 1: Navigate to https://stackoverflow.com/
 step 2: Enter input value in input field ':rc:'
 step 3: Click on button 'Save' -> Navigate to page '*/single-ticket/*'
 step 4: Click on svg 'KeyboardArrowDownIcon'
@@ -222,13 +222,13 @@ step 6: Click on button 'Swipe' -> Navigate to page ''
 step 7: Click on link  -> Navigate to page '*/single-ticket/*'
 step 8: Click on svg 'KeyboardArrowDownIcon'
 step 9: Take full page screenshot as checkpoint",High
-33,Verify Single Ticket Page after Adding and Selecting Client,Navigate to the single ticket page and add/select a client. Verify the updated single ticket page.,"step 1: Navigate to https://stackoverflow.com/
+33,Verify Single Ticket and Client Profile,"Navigate to the single ticket page, access the client profile, and verify the single ticket after accessing the client profile.","step 1: Navigate to https://stackoverflow.com/
 step 2: Enter input value in input field ':r33:' -> Navigate to page '*/single-ticket/*'
 step 3: Click on link 'Kameron Spivey' -> Navigate to page 'customer/profile/*'
 step 4: Click on link '+\nEdit Client' -> Navigate to page '*/single-ticket/*'
 step 5: Click on button 'Checkout'
 step 6: Take full page screenshot as checkpoint",High
-30,Verify Single Ticket Page after Adding Tip Amount and Saving,Navigate to the single ticket page and add a tip amount. Save the changes and verify the updated single ticket page.,"step 1: Navigate to https://stackoverflow.com/
+30,Verify Single Ticket and Tip Amount Addition,"Navigate to the single ticket page, add a tip amount, and verify the single ticket after adding the tip amount.","step 1: Navigate to https://stackoverflow.com/
 step 2: Click on link
 step 3: Click on td  -> Navigate to page '*/single-ticket/*'
 step 4: Click on svg 'AddIcon'
@@ -238,7 +238,7 @@ step 7: Click on span  -> Navigate to page '*/single-ticket/*'
 step 8: Enter input value in input field 'tip amount'
 step 9: Click on button 'Save'
 step 10: Take full page screenshot as checkpoint",High
-31,Verify Single Ticket Page after Adding and Selecting Options,Navigate to the single ticket page and add/select options. Save the changes and verify the updated single ticket page.,"step 1: Navigate to https://stackoverflow.com
+31,Verify Single Ticket and Ticket Update Process,"Navigate to the single ticket page, update the ticket, and verify the single ticket after updating the ticket.","step 1: Navigate to https://stackoverflow.com
 step 2: Click on link
 step 3: Click on span  -> Navigate to page '*/single-ticket/*'
 step 4: Click on input field ':r95:'
@@ -251,34 +251,34 @@ step 10: Click on input field ':r95:'
 step 11: Click on span
 step 12: Click on button 'Save'
 step 13: Take full page screenshot as checkpoint",High
-12,Verify Customer Profile Page after Selecting Object and Checkout,Navigate to the customer profile page and select an object. Proceed to checkout and verify the updated customer profile.,"step 1: Navigate to https://stackoverflow.com/
+12,Verify Customer Profile and Checkout Process,"Navigate to the customer profile page, proceed with the checkout process, and verify the customer profile after completing the process.","step 1: Navigate to https://stackoverflow.com/
 step 2: Click on svg
 step 3: Click on link
 step 4: Click on span
 step 5: Click on button 'Checkout' -> Navigate to page 'customer/profile/*'
 step 6: Click on button 'scrollable-auto-tab-4'
 step 7: Take full page screenshot as checkpoint",High
-13,Verify Customer Profile Page after Completing Single Ticket,Navigate to the home page and access the single ticket page. Proceed to the customer profile page and verify the displayed information.,"step 1: Navigate to https://stackoverflow.com
+13,Verify Customer Profile after Ticket Creation,Navigate to the home page and access the single ticket page. Perform necessary actions and verify the customer profile page.,"step 1: Navigate to https://stackoverflow.com
 step 2: Click on link
 step 3: Click on span  -> Navigate to page '*/single-ticket/*'
 step 4: Click on button 'Ok' -> Navigate to page 'customer/profile/*'
 step 5: Click on select 'Status'
 step 6: Click on select 'Status'
 step 7: Take full page screenshot as checkpoint",High
-14,Verify Customer Profile Page after Entering Information and Closing,Navigate to the home page and access the customer profile page. Enter required information and close the page. Verify the customer profile page.,"step 1: Navigate to https://stackoverflow.com/
+14,Verify Customer Profile after Interaction and Close,Navigate to the home page and access the customer profile. Perform interactions and then close the profile. Verify the customer profile page.,"step 1: Navigate to https://stackoverflow.com/
 step 2: Click on div
 step 3: Enter input value in input field ':rc:' -> Navigate to page 'customer/profile/*'
 step 4: Click on button 'Close'
 step 5: Click on svg
 step 6: Click on button 'scrollable-auto-tab-2'
 step 7: Take full page screenshot as checkpoint",High
-15,Verify Customer Profile Page after Deleting Object,Navigate to the home page and access the customer profile page. Delete an object and verify the customer profile page.,"step 1: Navigate to https://stackoverflow.com
+15,Verify Customer Profile after Item Deletion,Navigate to the home page and access the customer profile. Delete an item and verify the customer profile page.,"step 1: Navigate to https://stackoverflow.com
 step 2: Click on link  -> Navigate to page '*'
 step 3: Click on td
 step 4: Click on svg 'DeleteIcon'
 step 5: Click on button 'Agree' -> Navigate to page 'customer/profile/*'
 step 6: Take full page screenshot as checkpoint",High
-16,Verify Customer Profile Page after Adding Note and Accessing Appointments,Navigate to the home page and access the customer profile page. Add a note and access the appointments. Verify the customer profile page.,"step 1: Navigate to https://stackoverflow.com/
+16,Verify Customer Profile after Note Addition and Appointment Access,Navigate to the home page and access the customer profile. Add a note and save it. Access the appointments and verify the customer profile page.,"step 1: Navigate to https://stackoverflow.com/
 step 2: Click on button
 step 3: Click on button  -> Navigate to page 'customer/profile/*'
 step 4: Enter input value in textarea 'note'
@@ -286,22 +286,22 @@ step 5: Click on button 'Save'
 step 6: Click on link 'Appointments'
 step 7: Click on link 'Appointments'
 step 8: Take full page screenshot as checkpoint",High
-1,Verify Home Page after Logging In,Navigate to the login page and log in. Access the home page and verify the displayed information.,"step 1: Navigate to https://stackoverflow.com/auth/login
+1,Verify Home Page after Login,Navigate to the login page and log in. Access the home page and verify it.,"step 1: Navigate to https://stackoverflow.com/auth/login
 step 2: Click on button 'Login' -> Navigate to page ''
 step 3: Click on svg
 step 4: Click on span
 step 5: Take full page screenshot as checkpoint",High
-17,Verify Customer Profile Page after Accessing Object,Navigate to the home page and access the customer profile page. Verify the displayed information.,"step 1: Navigate to https://stackoverflow.com
+17,Verify Customer Profile after Object Selection,Navigate to the home page and access the customer profile. Perform object selection and verify the customer profile page.,"step 1: Navigate to https://stackoverflow.com
 step 2: Click on link
 step 3: Click on link  -> Navigate to page 'customer/profile/*'
 step 4: Click on div
 step 5: Click on span
 step 6: Take full page screenshot as checkpoint",High
-2,Verify Home Page after Entering Information,Navigate to the home page and enter required information. Verify the home page.,"step 1: Navigate to https://stackoverflow.com/
+2,Verify Home Page after Input,Navigate to the home page and input required information. Verify the home page.,"step 1: Navigate to https://stackoverflow.com/
 step 2: Click on div
 step 3: Enter input value in input field ':r33:'
 step 4: Take full page screenshot as checkpoint",High
-18,Verify Customer Profile Page after Accessing Object and Scrolling,Navigate to the login page and log in. Access the customer profile page and perform scrolling actions. Verify the customer profile page.,"step 1: Navigate to https://stackoverflow.com/auth/login
+18,Verify Customer Profile after Object Selection and Tab Navigation,Navigate to the login page and log in. Access the customer profile and perform object selection and tab navigation. Verify the customer profile page.,"step 1: Navigate to https://stackoverflow.com/auth/login
 step 2: Click on button 'Login' -> Navigate to page ''
 step 3: Click on link
 step 4: Click on link  -> Navigate to page 'customer/profile/*'
@@ -309,13 +309,13 @@ step 5: Click on button 'scrollable-auto-tab-2'
 step 6: Click on button 'scrollable-auto-tab-2'
 step 7: Click on button 'scrollable-auto-tab-1'
 step 8: Take full page screenshot as checkpoint",High
-19,Verify Customer Profile Page after Accessing Appointments and Scrolling,Navigate to the home page and access the appointments from the customer profile page. Perform scrolling actions and verify the customer profile page.,"step 1: Navigate to https://stackoverflow.com/
+19,Verify Customer Profile after Appointment Access and Tab Navigation,Navigate to the home page and access the appointments. Perform tab navigation and verify the customer profile page.,"step 1: Navigate to https://stackoverflow.com/
 step 2: Click on link 'Appointments' -> Navigate to page 'customer/profile/*'
 step 3: Click on button 'scrollable-auto-tab-2'
 step 4: Click on button 'scrollable-auto-tab-1'
 step 5: Click on button 'scrollable-auto-tab-0'
 step 6: Take full page screenshot as checkpoint",High
-20,Verify Customer Profile Page after Checking Out and Editing,Navigate to the home page and access the customer profile page. Proceed to checkout and edit an object. Verify the customer profile page.,"step 1: Navigate to https://stackoverflow.com/
+20,Verify Customer Profile after Checkout and Edit,Navigate to the home page and access the customer profile. Proceed to checkout and perform an edit. Verify the customer profile page.,"step 1: Navigate to https://stackoverflow.com/
 step 2: Click on link
 step 3: Click on span
 step 4: Click on button 'Checkout' -> Navigate to page 'customer/profile/*'
