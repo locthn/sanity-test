@@ -1,0 +1,16 @@
+{
+    "steps": [
+        "step 1: Navigate to https://stackoverflow.com",
+        "step 2: Click on input field 'SearchTerm' -> Navigate to page ' && anmeldung'",
+        "step 3: Click on svg  -> Navigate to page 'viewdata/*'",
+        "step 4: Click on button 'continue'",
+        "step 5: Click on label",
+        "step 6: Click on input field 'termsAndConditions'",
+        "step 7: Click on button 'sendOrder'",
+        "step 8: Click on link 'WEITER EINKAUFEN' -> Navigate to page ''",
+        "step 9: Click on svg  -> Navigate to page 'account'",
+        "step 10: Click on link 'Details' -> Navigate to page 'viewdata/*'",
+        "step 11: Click on link 'Zahlung'",
+        "step 12: Take full page screenshot as checkpoint"
+    ]
+}

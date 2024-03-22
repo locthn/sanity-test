@@ -1,0 +1,29 @@
+{
+    "steps": [
+        "step 1: Navigate to https://stackoverflow.com/filiale/hannover && filiale/lippstadt && filiale/dortmund && filiale/wuppertal && filiale/hamburg && filiale/paderborn && filiale/muelheim && filiale/duisburg && filiale/iserlohn && filiale/solingen && filiale/velbert && filiale/bietigheim && filiale/bielefeld && filiale/essen && filiale/gelsenkirchen && filiale/porta-westfalica && filiale/bochum && filiale/hamm",
+        "step 2: Click on div 'usercentrics-root' -> Navigate to page 'filiale/velbert'",
+        "step 3: Click on button 'Laminat' -> Navigate to page 'laminat'",
+        "step 4: Click on button 'Filtern & Sortieren'",
+        "step 5: Click on header",
+        "step 6: Click on link 'Grau\\n'",
+        "step 7: Click on svg",
+        "step 8: Click on svg",
+        "step 9: Click on svg",
+        "step 10: Click on svg  -> Navigate to page 'paging/*'",
+        "step 11: Click on button",
+        "step 12: Click on svg",
+        "step 13: Click on svg",
+        "step 14: Click on svg",
+        "step 15: Click on svg",
+        "step 16: Click on svg",
+        "step 17: Click on svg",
+        "step 18: Click on svg",
+        "step 19: Click on svg",
+        "step 20: Click on svg",
+        "step 21: Click on svg",
+        "step 22: Click on button",
+        "step 23: Click on svg",
+        "step 24: Click on svg",
+        "step 25: Take full page screenshot as checkpoint"
+    ]
+}
