@@ -1,0 +1,32 @@
+{
+    "steps": [
+        "step 1: Navigate to https://stackoverflow.com/ && anmeldung",
+        "step 2: Click on link  -> Navigate to page 'paging/* && aktion/wir-raeumen-auf'",
+        "step 3: Click on button 'Filtern & Sortieren'",
+        "step 4: Click on link '6' -> Navigate to page 'paging/*'",
+        "step 5: Click on span",
+        "step 6: Click on link '2'",
+        "step 7: Click on button 'Filtern & Sortieren'",
+        "step 8: Click on link '3'",
+        "step 9: Click on list",
+        "step 10: Click on list",
+        "step 11: Click on span",
+        "step 12: Click on link '4'",
+        "step 13: Click on span",
+        "step 14: Click on link '5'",
+        "step 15: Click on list item",
+        "step 16: Click on button 'Laminat'",
+        "step 17: Click on link 'mittel' -> Navigate to page 'laminat/farbgebung/mittel'",
+        "step 18: Click on svg",
+        "step 19: Click on span",
+        "step 20: Click on link '2' -> Navigate to page 'paging/*'",
+        "step 21: Click on span",
+        "step 22: Click on link '3'",
+        "step 23: Click on list",
+        "step 24: Click on list",
+        "step 25: Click on span",
+        "step 26: Click on link '4'",
+        "step 27: Click on div",
+        "step 28: Take full page screenshot as checkpoint"
+    ]
+}

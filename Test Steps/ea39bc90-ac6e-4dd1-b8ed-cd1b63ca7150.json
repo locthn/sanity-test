@@ -1,0 +1,17 @@
+{
+    "steps": [
+        "step 1: Navigate to https://stackoverflow.com",
+        "step 2: Click on svg",
+        "step 3: Click on input field 'SearchTerm'",
+        "step 4: Click on input field 'SearchTerm' -> Navigate to page '*'",
+        "step 5: Click on svg",
+        "step 6: Click on input field 'SearchTerm'",
+        "step 7: Click on input field 'SearchTerm' -> Navigate to page 'laminat/optik/*'",
+        "step 8: Click on span  -> Navigate to page 'paging/*'",
+        "step 9: Click on list",
+        "step 10: Click on list",
+        "step 11: Click on span",
+        "step 12: Click on span",
+        "step 13: Take full page screenshot as checkpoint"
+    ]
+}

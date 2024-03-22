@@ -1,0 +1,30 @@
+{
+    "steps": [
+        "step 1: Navigate to https://stackoverflow.com",
+        "step 2: Click on link  -> Navigate to page 'paging/* && aktion/wir-raeumen-auf'",
+        "step 3: Click on div 'usercentrics-root'",
+        "step 4: Click on link 'WEITER' -> Navigate to page 'paging/*'",
+        "step 5: Click on link 'MEHR ARTIKEL ANZEIGEN'",
+        "step 6: Click on button 'Filtern & Sortieren'",
+        "step 7: Click on button '\\xdcBERNEHMEN'",
+        "step 8: Click on link 'verf\\xfcgbar' -> Navigate to page 'aktion/wir-raeumen-auf'",
+        "step 9: Click on button '108 ARTIKEL ANZEIGEN'",
+        "step 10: Click on button 'Filtern & Sortieren\\n1'",
+        "step 11: Click on span",
+        "step 12: Click on span",
+        "step 13: Click on span",
+        "step 14: Click on link 'Ohne Fuge'",
+        "step 15: Click on span",
+        "step 16: Click on span",
+        "step 17: Click on span",
+        "step 18: Click on span",
+        "step 19: Click on button '9 ARTIKEL ANZEIGEN'",
+        "step 20: Click on list item",
+        "step 21: Click on button 'Vinylb\\xf6den'",
+        "step 22: Click on link 'Rigid-Vinyl' -> Navigate to page 'vinylboeden/art/rigid-vinyl'",
+        "step 23: Click on link 'MEHR ARTIKEL ANZEIGEN' -> Navigate to page 'paging/*'",
+        "step 24: Click on link  -> Navigate to page 'vinylboeden/art-des-vinylbodens/rigid-vinyl/* && vinylboeden/art-des-vinylbodens/klick-vinyl/*'",
+        "step 25: Click on input field 'Quantity 100027942' -> Navigate to page 'paging/*'",
+        "step 26: Take full page screenshot as checkpoint"
+    ]
+}

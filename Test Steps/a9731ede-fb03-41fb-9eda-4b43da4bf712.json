@@ -1,0 +1,22 @@
+{
+    "steps": [
+        "step 1: Navigate to https://stackoverflow.com/service/musterbestellung",
+        "step 2: Click on div 'usercentrics-root'",
+        "step 3: Click on list item  -> Navigate to page 'vinylboeden/art/klick-vinyl'",
+        "step 4: Click on button 'Filtern & Sortieren'",
+        "step 5: Click on button 'WEITER EINKAUFEN' -> Navigate to page 'vinylboeden/art-des-vinylbodens/rigid-vinyl/* && vinylboeden/art-des-vinylbodens/klick-vinyl/*'",
+        "step 6: Click on image  -> Navigate to page 'paging/*'",
+        "step 7: Click on svg",
+        "step 8: Click on svg",
+        "step 9: Click on svg",
+        "step 10: Click on svg",
+        "step 11: Click on button",
+        "step 12: Click on button 'addProductSample'",
+        "step 13: Click on svg",
+        "step 14: Click on div",
+        "step 15: Click on button 'Filtern & Sortieren'",
+        "step 16: Click on svg",
+        "step 17: Click on button 'addProductSample'",
+        "step 18: Take full page screenshot as checkpoint"
+    ]
+}

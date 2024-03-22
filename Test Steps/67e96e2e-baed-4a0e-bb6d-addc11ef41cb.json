@@ -1,0 +1,14 @@
+{
+    "steps": [
+        "step 1: Navigate to https://stackoverflow.com",
+        "step 2: Click on link",
+        "step 3: Click on link  -> Navigate to page 'customer/profile/*'",
+        "step 4: Click on body",
+        "step 5: Click on div  -> Navigate to page ''",
+        "step 6: Enter input value in input field ':r0:'",
+        "step 7: Click on div  -> Navigate to page 'customer/profile/*'",
+        "step 8: Click on button 'scrollable-auto-tab-1'",
+        "step 9: Click on link 'Appointments'",
+        "step 10: Take full page screenshot as checkpoint"
+    ]
+}

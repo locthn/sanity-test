@@ -1,0 +1,27 @@
+{
+    "steps": [
+        "step 1: Navigate to https://stackoverflow.com/ueber-uns/filialen",
+        "step 2: Click on link",
+        "step 3: Enter input value in input field",
+        "step 4: Click on button 'ALLE LAMINAT DEPOT FILIALEN' -> Navigate to page 'filiale/bochum && filiale/lippstadt && filiale/velbert && filiale/wuppertal && filiale/hamm && filiale/duisburg && filiale/bielefeld && filiale/bietigheim && filiale/muelheim && filiale/gelsenkirchen && filiale/dortmund && filiale/solingen && filiale/hamburg && filiale/hannover && filiale/porta-westfalica && filiale/essen && filiale/paderborn && filiale/iserlohn'",
+        "step 5: Click on div 'usercentrics-root' -> Navigate to page 'filiale/bochum && filiale/lippstadt && filiale/velbert && filiale/wuppertal && filiale/duisburg && filiale/bielefeld && filiale/muelheim && filiale/gelsenkirchen && filiale/dortmund && filiale/solingen && filiale/hannover && filiale/essen && filiale/hamburg && filiale/porta-westfalica && filiale/hamm'",
+        "step 6: Click on button 'Vinylb\\xf6den'",
+        "step 7: Click on link 'Fischgr\\xe4t' -> Navigate to page 'vinylboeden/optik/Fischgraet'",
+        "step 8: Click on list item",
+        "step 9: Click on button 'Laminat'",
+        "step 10: Click on link 'Alle Laminat-B\\xf6den' -> Navigate to page 'laminat'",
+        "step 11: Click on link 'MEHR ARTIKEL ANZEIGEN' -> Navigate to page 'paging/*'",
+        "step 12: Click on list",
+        "step 13: Click on link 'WEITER'",
+        "step 14: Click on link 'WEITER'",
+        "step 15: Click on link 'WEITER'",
+        "step 16: Click on link 'WEITER'",
+        "step 17: Click on link 'WEITER'",
+        "step 18: Click on button 'Filtern & Sortieren'",
+        "step 19: Click on svg  -> Navigate to page 'feuchtraumboeden/* && bodenberater/* && sale/* && laminat/* && alle-produkte/* && bioboeden/* && vinylboeden/* && artikel-des-monats-landingpage/*'",
+        "step 20: Click on image  -> Navigate to page 'laminat/* && bodenberater/*'",
+        "step 21: Click on svg  -> Navigate to page 'paging/*'",
+        "step 22: Click on link 'ZUR\\xdcCK'",
+        "step 23: Take full page screenshot as checkpoint"
+    ]
+}

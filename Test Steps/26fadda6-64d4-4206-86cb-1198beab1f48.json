@@ -1,0 +1,30 @@
+{
+    "steps": [
+        "step 1: Navigate to https://stackoverflow.com",
+        "step 2: Click on link",
+        "step 3: Click on link  -> Navigate to page 'customer/profile/*'",
+        "step 4: Click on input field ':r3:'",
+        "step 5: Click on div",
+        "step 6: Click on input field ':r3:'",
+        "step 7: Enter input value in input field ':r3:'",
+        "step 8: Click on div",
+        "step 9: Click on button 'scrollable-auto-tab-1'",
+        "step 10: Click on div",
+        "step 11: Click on button 'scrollable-auto-tab-4'",
+        "step 12: Click on button 'scrollable-auto-tab-1'",
+        "step 13: Click on div",
+        "step 14: Click on div",
+        "step 15: Click on button 'Cancel'",
+        "step 16: Click on body",
+        "step 17: Click on list item",
+        "step 18: Click on button 'Cancel'",
+        "step 19: Click on svg 'NotificationsIcon'",
+        "step 20: Click on div",
+        "step 21: Click on body",
+        "step 22: Click on list item",
+        "step 23: Click on div",
+        "step 24: Click on button 'Cancel'",
+        "step 25: Click on input field ':r3:'",
+        "step 26: Take full page screenshot as checkpoint"
+    ]
+}

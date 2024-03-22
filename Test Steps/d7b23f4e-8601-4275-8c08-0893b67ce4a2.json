@@ -1,0 +1,25 @@
+{
+    "steps": [
+        "step 1: Navigate to https://stackoverflow.com",
+        "step 2: Click on input field 'SearchTerm' -> Navigate to page '*'",
+        "step 3: Click on link 'Boden virtuell verlegen'",
+        "step 4: Click on input field 'Area-Quantity 100024245'",
+        "step 5: Click on div  -> Navigate to page 'kostenlos'",
+        "step 6: Click on p",
+        "step 7: Click on image  -> Navigate to page 'paging/*'",
+        "step 8: Click on link '2,50 - 9,99 \\u20ac\\n' -> Navigate to page 'fussleisten'",
+        "step 9: Click on header",
+        "step 10: Click on link 'Preis absteigend'",
+        "step 11: Click on div",
+        "step 12: Click on button '99 ARTIKEL ANZEIGEN' -> Navigate to page 'fussleisten/*'",
+        "step 13: Click on link 'Artikeldetails'",
+        "step 14: Click on div  -> Navigate to page 'service/kostenlos'",
+        "step 15: Click on image",
+        "step 16: Click on image",
+        "step 17: Click on image",
+        "step 18: Click on svg",
+        "step 19: Click on input field 'SearchTerm' -> Navigate to page '*'",
+        "step 20: Click on input field 'Area-Quantity 100024245'",
+        "step 21: Take full page screenshot as checkpoint"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "steps": [
+        "step 1: Navigate to https://stackoverflow.com",
+        "step 2: Click on link",
+        "step 3: Click on span  -> Navigate to page '*/single-ticket/*'",
+        "step 4: Click on svg 'EditIcon'",
+        "step 5: Click on div",
+        "step 6: Enter input value in input field 'tip amount'",
+        "step 7: Click on button 'Save'",
+        "step 8: Click on button 'Checkout'",
+        "step 9: Click on button 'Checkout'",
+        "step 10: Click on button 'Ok' -> Navigate to page ''",
+        "step 11: Click on link",
+        "step 12: Click on link  -> Navigate to page 'customer/profile/*'",
+        "step 13: Click on button 'scrollable-auto-tab-2'",
+        "step 14: Click on button 'scrollable-auto-tab-1'",
+        "step 15: Click on button 'scrollable-auto-tab-3'",
+        "step 16: Take full page screenshot as checkpoint"
+    ]
+}
