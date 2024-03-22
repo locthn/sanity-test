@@ -1,323 +1,678 @@
 Flow ID,Name,Description,Test Steps,Flow Priority
-4,Verify Customer Profile after Completing Appointments,Navigate to the home page and access the customer profile. Perform several actions related to appointments and saving data. Verify the updated customer profile page.,"step 1: Navigate to https://stackoverflow.com
-step 2: Click on link
-step 3: Click on link  -> Navigate to page 'customer/profile/*'
-step 4: Click on button 'Cancel'
-step 5: Click on button 'Appointments'
-step 6: Click on link 'Appointments' -> Navigate to page '*/single-ticket/*'
-step 7: Click on input field ':r60:'
-step 8: Click on list item ':r60:-option-0'
-step 9: Click on input field ':r62:'
-step 10: Click on list item ':r62:-option-1'
-step 11: Click on input field ':r62:'
-step 12: Click on button 'Save' -> Navigate to page ''
-step 13: Enter input value in input field ':r0:'
-step 14: Click on span  -> Navigate to page 'customer/profile/*'
-step 15: Click on button 'scrollable-auto-tab-4'
-step 16: Enter input value in textarea 'note'
-step 17: Click on button 'Save' -> Navigate to page 'dashboard'
-step 18: Click on link 'Manage Studio'
-step 19: Click on button 'Reporting' -> Navigate to page ''
-step 20: Click on link
-step 21: Click on link  -> Navigate to page 'customer/profile/*'
-step 22: Click on button 'scrollable-auto-tab-2'
-step 23: Click on button 'scrollable-auto-tab-3'
-step 24: Take full page screenshot as checkpoint",High
-24,Verify Single Ticket after Adding and Editing Notes,Navigate to the customer add page and add customer information. Edit and save data related to notes. Verify the updated single ticket page.,"step 1: Navigate to https://stackoverflow.com/customer/add
-step 2: Enter input value in input field 'firstName'
-step 3: Click on input field 'lastName'
-step 4: Click on body
-step 5: Click on list item  -> Navigate to page ''
-step 6: Click on button 'Checkout' -> Navigate to page 'customer/profile/*'
-step 7: Click on button 'scrollable-auto-tab-4'
-step 8: Click on button 'scrollable-auto-tab-1'
-step 9: Click on button '+\nAdd Note'
-step 10: Enter input value in textarea 'note'
-step 11: Click on button 'Save'
-step 12: Click on link 'Appointments' -> Navigate to page ''
-step 13: Click on button 'Today' -> Navigate to page '*/single-ticket/*'
-step 14: Click on button 'Add Visa **0766'
-step 15: Click on button 'Checkout'
-step 16: Take full page screenshot as checkpoint",High
-5,Verify Customer Profile and Checkout Process,Navigate to the home page and access the single ticket page. Edit and save data related to appointments and checkout process. Verify the updated customer profile page.,"step 1: Navigate to https://stackoverflow.com
-step 2: Click on link
-step 3: Click on span  -> Navigate to page '*/single-ticket/*'
-step 4: Click on svg 'EditIcon'
-step 5: Click on div
-step 6: Enter input value in input field 'tip amount'
-step 7: Click on button 'Save'
-step 8: Click on button 'Checkout'
-step 9: Click on button 'Checkout'
-step 10: Click on button 'Ok' -> Navigate to page ''
-step 11: Click on link
-step 12: Click on link  -> Navigate to page 'customer/profile/*'
-step 13: Click on button 'scrollable-auto-tab-2'
-step 14: Click on button 'scrollable-auto-tab-1'
-step 15: Click on button 'scrollable-auto-tab-3'
-step 16: Take full page screenshot as checkpoint",High
-29,Verify Single Ticket after Adding Membership and Payment,Navigate to the home page and access the single ticket page. Add membership and perform payment-related actions. Verify the updated single ticket page.,"step 1: Navigate to https://stackoverflow.com/
-step 2: Click on link
-step 3: Click on span  -> Navigate to page '*/single-ticket/*'
-step 4: Click on button 'Checkout'
-step 5: Click on button 'Ok' -> Navigate to page ''
-step 6: Click on link
-step 7: Click on span  -> Navigate to page '*/single-ticket/*'
-step 8: Click on button 'Add Membership'
-step 9: Click on input field ':r5v:'
-step 10: Click on span
-step 11: Click on button 'Add Membership'
-step 12: Click on svg 'AddIcon'
-step 13: Take full page screenshot as checkpoint",High
-28,Verify Single Ticket after Managing Notes and Appointments,Navigate to the home page and access the customer profile. Manage notes and appointments. Verify the updated single ticket page.,"step 1: Navigate to https://stackoverflow.com/
-step 2: Click on link
-step 3: Click on link  -> Navigate to page 'customer/profile/*'
-step 4: Click on button 'scrollable-auto-tab-4'
-step 5: Click on button 'scrollable-auto-tab-1'
-step 6: Click on textarea 'note'
-step 7: Click on button 'scrollable-auto-tab-4'
-step 8: Click on link 'Appointments'
-step 9: Click on button
-step 10: Click on button 'Close' -> Navigate to page ''
-step 11: Click on link
-step 12: Click on span  -> Navigate to page '*/single-ticket/*'
-step 13: Take full page screenshot as checkpoint",High
-27,Verify Single Ticket after Adding Visa and Checkout,Navigate to the home page and access the customer profile. Add visa and perform the checkout process. Verify the updated single ticket page.,"step 1: Navigate to https://stackoverflow.com
-step 2: Click on link
-step 3: Click on span  -> Navigate to page '*/single-ticket/*'
-step 4: Click on button 'Add Visa **4112'
-step 5: Click on button 'Checkout' -> Navigate to page ''
-step 6: Click on link  -> Navigate to page '*/single-ticket/*'
-step 7: Click on button 'Ok'
-step 8: Take full page screenshot as checkpoint",High
-26,Verify Single Ticket after Managing Appointments,Navigate to the home page and access the customer profile. Manage appointments and verify the updated single ticket page.,"step 1: Navigate to https://stackoverflow.com/
-step 2: Click on span  -> Navigate to page 'customer/profile/*'
-step 3: Click on link 'Appointments' -> Navigate to page ''
-step 4: Click on div  -> Navigate to page 'customer/profile/*'
-step 5: Click on button 'scrollable-auto-tab-4'
-step 6: Click on button 'scrollable-auto-tab-2'
-step 7: Click on button 'scrollable-auto-tab-1'
-step 8: Click on button 'scrollable-auto-tab-0' -> Navigate to page '*/single-ticket/*'
-step 9: Click on svg 'AddIcon'
-step 10: Take full page screenshot as checkpoint",High
-25,Verify Single Ticket after Adding Membership and Billing,Navigate to the home page and access the single ticket page. Add membership and billing-related actions. Verify the updated single ticket page.,"step 1: Navigate to https://stackoverflow.com
-step 2: Click on link
-step 3: Click on span  -> Navigate to page '*/single-ticket/*'
-step 4: Click on svg 'KeyboardArrowDownIcon'
-step 5: Click on button 'Add Membership'
-step 6: Click on div
-step 7: Click on input field ':r45:'
-step 8: Click on span
-step 9: Click on input field 'Billing Date' -> Navigate to page ''
-step 10: Click on span  -> Navigate to page '*/single-ticket/*'
-step 11: Click on svg 'AddIcon'
-step 12: Click on input field 'tip amount'
-step 13: Enter input value in input field 'tip amount'
-step 14: Click on button 'Save'
-step 15: Take full page screenshot as checkpoint",High
-23,Verify Single Ticket after Managing Appointments and Payment,Navigate to the home page and access the single ticket page. Manage appointments and payment-related actions. Verify the updated single ticket page.,"step 1: Navigate to https://stackoverflow.com/
-step 2: Click on link  -> Navigate to page 'customer/profile/*'
-step 3: Click on link 'Appointments' -> Navigate to page ''
-step 4: Click on button 'Select Date'
-step 5: Click on button 'Select Date'
-step 6: Click on input field ':r3:'
-step 7: Enter input value in input field ':r3:'
-step 8: Click on div  -> Navigate to page '*'
-step 9: Enter input value in input field ':r19f:'
-step 10: Click on body
-step 11: Click on list item
-step 12: Click on input field ':r28k:' -> Navigate to page '*/single-ticket/*'
-step 13: Click on button
-step 14: Click on button 'Swipe Card'
-step 15: Click on input field
-step 16: Click on button 'Swipe' -> Navigate to page ''
-step 17: Click on link
-step 18: Click on span  -> Navigate to page '*/single-ticket/*'
-step 19: Enter input value in input field 'tip amount'
-step 20: Click on button 'Save' -> Navigate to page 'customer/profile/*'
-step 21: Click on button 'scrollable-auto-tab-4'
-step 22: Click on button 'scrollable-auto-tab-1'
-step 23: Click on svg 'EditIcon'
-step 24: Click on button 'scrollable-auto-tab-1'
-step 25: Click on svg 'EditIcon' -> Navigate to page '*/single-ticket/*'
-step 26: Take full page screenshot as checkpoint",High
-11,Verify Single Ticket and Receipt Printing,Navigate to the home page and access the single ticket page. Perform checkout and receipt printing actions. Verify the updated single ticket page.,"step 1: Navigate to https://stackoverflow.com
-step 2: Click on link
-step 3: Click on span  -> Navigate to page '*/single-ticket/*'
-step 4: Click on button 'Checkout'
-step 5: Click on button 'Ok' -> Navigate to page ''
-step 6: Click on link
-step 7: Click on svg  -> Navigate to page 'customer/profile/*'
-step 8: Click on button 'scrollable-auto-tab-1'
-step 9: Click on button
-step 10: Click on svg 'KeyboardArrowRightIcon'
-step 11: Click on svg 'KeyboardArrowRightIcon'
-step 12: Click on svg 'KeyboardArrowRightIcon'
-step 13: Click on svg 'KeyboardArrowRightIcon'
-step 14: Click on svg 'KeyboardArrowRightIcon'
-step 15: Click on svg 'KeyboardArrowRightIcon'
-step 16: Click on button 'Print Receipt'
-step 17: Click on button 'Close'
-step 18: Take full page screenshot as checkpoint",High
-10,Verify Customer Profile after Refund Process,Navigate to the home page and access the customer profile. Initiate a refund process and verify the updated customer profile page.,"step 1: Navigate to https://stackoverflow.com
-step 2: Click on link
-step 3: Click on link  -> Navigate to page 'customer/profile/*'
-step 4: Click on button 'Start Refund\n'
-step 5: Click on input field
-step 6: Click on input field ':r1n:'
-step 7: Click on button 'scrollable-auto-tab-3'
-step 8: Click on button 'scrollable-auto-tab-2'
-step 9: Click on button 'scrollable-auto-tab-3'
-step 10: Take full page screenshot as checkpoint",High
-9,Verify Customer Profile after Adding and Editing Information,Navigate to the customer page and add customer information. Edit and save data related to the customer profile. Verify the updated customer profile page.,"step 1: Navigate to https://stackoverflow.com/customer
-step 2: Enter input value in input field ':r0:'
-step 3: Click on div  -> Navigate to page 'customer/profile/*'
-step 4: Click on button 'scrollable-auto-tab-2'
-step 5: Take full page screenshot as checkpoint",High
-8,Verify Customer Profile after Adding and Editing Notes,Navigate to the customer add page and add customer information. Edit and save data related to notes. Verify the updated customer profile page.,"step 1: Navigate to https://stackoverflow.com/customer/add
-step 2: Enter input value in input field 'firstName'
-step 3: Click on input field 'lastName' -> Navigate to page 'customer/profile/*'
-step 4: Click on input field ':r0:'
-step 5: Enter input value in input field ':r0:'
-step 6: Click on div
-step 7: Enter input value in textarea 'note'
-step 8: Click on button 'Save'
-step 9: Enter input value in textarea 'note'
-step 10: Click on button 'Save'
-step 11: Click on button 'scrollable-auto-tab-2'
-step 12: Enter input value in textarea 'note'
-step 13: Click on button 'Save' -> Navigate to page ''
-step 14: Click on link  -> Navigate to page 'customer/profile/*'
-step 15: Click on button 'scrollable-auto-tab-4'
-step 16: Click on button 'scrollable-auto-tab-1'
-step 17: Click on svg 'EditIcon'
-step 18: Enter input value in textarea 'note'
-step 19: Click on button 'Save'
-step 20: Click on button '+\nAdd Note'
-step 21: Click on body
-step 22: Click on list item
-step 23: Enter input value in textarea 'note'
-step 24: Click on button 'Save'
-step 25: Take full page screenshot as checkpoint",High
-7,Verify Customer Profile from Sales Representative Page,Navigate to the sales representative page and access the customer profile. Verify the displayed customer profile page.,"step 1: Navigate to https://stackoverflow.com/manager/salesrep
-step 2: Click on svg 'KeyboardArrowLeftIcon' -> Navigate to page ''
-step 3: Click on link
-step 4: Click on span  -> Navigate to page 'customer/profile/*'
-step 5: Click on button 'scrollable-auto-tab-1'
-step 6: Take full page screenshot as checkpoint",High
-6,Verify Customer Profile after Navigating and Searching,Navigate to the home page and access the customer profile. Search for a customer and verify the displayed customer profile page.,"step 1: Navigate to https://stackoverflow.com
-step 2: Click on link
-step 3: Click on span  -> Navigate to page '*/single-ticket/*'
-step 4: Click on button 'Ok' -> Navigate to page ''
-step 5: Click on svg
-step 6: Click on link 'Clients' -> Navigate to page 'customer'
-step 7: Click on input field 'customerSearch' -> Navigate to page 'customer/profile/*'
-step 8: Click on body
-step 9: Take full page screenshot as checkpoint",High
-32,Verify Single Ticket after Adding and Swiping Card,Navigate to the home page and access the single ticket page. Add and swipe card-related actions. Verify the updated single ticket page.,"step 1: Navigate to https://stackoverflow.com/
-step 2: Enter input value in input field ':rc:'
-step 3: Click on button 'Save' -> Navigate to page '*/single-ticket/*'
-step 4: Click on svg 'KeyboardArrowDownIcon'
-step 5: Click on button 'Swipe Card'
-step 6: Click on button 'Swipe' -> Navigate to page ''
-step 7: Click on link  -> Navigate to page '*/single-ticket/*'
-step 8: Click on svg 'KeyboardArrowDownIcon'
-step 9: Take full page screenshot as checkpoint",High
-33,Verify Single Ticket after Editing and Checking Out,Navigate to the home page and access the single ticket page. Edit customer details and perform the checkout process. Verify the updated single ticket page.,"step 1: Navigate to https://stackoverflow.com/
-step 2: Enter input value in input field ':r33:' -> Navigate to page '*/single-ticket/*'
-step 3: Click on link 'Kameron Spivey' -> Navigate to page 'customer/profile/*'
-step 4: Click on link '+\nEdit Client' -> Navigate to page '*/single-ticket/*'
-step 5: Click on button 'Checkout'
-step 6: Take full page screenshot as checkpoint",High
-30,Verify Single Ticket after Adding Tip Amount and Saving,Navigate to the home page and access the single ticket page. Add tip amount and save the data. Verify the updated single ticket page.,"step 1: Navigate to https://stackoverflow.com/
-step 2: Click on link
-step 3: Click on td  -> Navigate to page '*/single-ticket/*'
-step 4: Click on svg 'AddIcon'
-step 5: Click on body  -> Navigate to page ''
-step 6: Enter input value in input field ':rc:'
-step 7: Click on span  -> Navigate to page '*/single-ticket/*'
-step 8: Enter input value in input field 'tip amount'
-step 9: Click on button 'Save'
-step 10: Take full page screenshot as checkpoint",High
-31,Verify Single Ticket after Editing and Saving Data,Navigate to the home page and access the single ticket page. Edit and save data related to ticket details. Verify the updated single ticket page.,"step 1: Navigate to https://stackoverflow.com
-step 2: Click on link
-step 3: Click on span  -> Navigate to page '*/single-ticket/*'
-step 4: Click on input field ':r95:'
-step 5: Click on input field ':r93:'
-step 6: Click on svg 'CloseIcon'
-step 7: Click on svg 'KeyboardArrowDownIcon'
-step 8: Click on input field ':r93:'
-step 9: Click on list item ':r93:-option-6'
-step 10: Click on input field ':r95:'
-step 11: Click on span
-step 12: Click on button 'Save'
-step 13: Take full page screenshot as checkpoint",High
-12,Verify Customer Profile after Checkout Process,Navigate to the home page and access the customer profile. Perform actions related to the checkout process. Verify the updated customer profile page.,"step 1: Navigate to https://stackoverflow.com/
+1,Verify Search and Navigation on Home Page,Navigate to the home page and perform a search. Verify the search results and ensure proper navigation within the website.,"step 1: Navigate to https://stackoverflow.com
 step 2: Click on svg
-step 3: Click on link
-step 4: Click on span
-step 5: Click on button 'Checkout' -> Navigate to page 'customer/profile/*'
-step 6: Click on button 'scrollable-auto-tab-4'
-step 7: Take full page screenshot as checkpoint",High
-13,Verify Customer Profile Page after Navigating from Home,"Navigate to the home page and access the customer profile page. Perform various actions such as clicking buttons, selecting options, and verifying the page.","step 1: Navigate to https://stackoverflow.com
-step 2: Click on link
-step 3: Click on span  -> Navigate to page '*/single-ticket/*'
-step 4: Click on button 'Ok' -> Navigate to page 'customer/profile/*'
-step 5: Click on select 'Status'
-step 6: Click on select 'Status'
-step 7: Take full page screenshot as checkpoint",High
-14,Verify Customer Profile Page after Navigating from Home,"Navigate to the home page and access the customer profile page. Input information, click buttons, and verify the displayed page.","step 1: Navigate to https://stackoverflow.com/
-step 2: Click on div
-step 3: Enter input value in input field ':rc:' -> Navigate to page 'customer/profile/*'
-step 4: Click on button 'Close'
-step 5: Click on svg
-step 6: Click on button 'scrollable-auto-tab-2'
-step 7: Take full page screenshot as checkpoint",High
-15,Verify Customer Profile Page after Navigating from Home,Navigate to the home page and access the customer profile page. Perform actions such as clicking buttons and verifying the page.,"step 1: Navigate to https://stackoverflow.com
-step 2: Click on link  -> Navigate to page '*'
-step 3: Click on td
-step 4: Click on svg 'DeleteIcon'
-step 5: Click on button 'Agree' -> Navigate to page 'customer/profile/*'
-step 6: Take full page screenshot as checkpoint",High
-16,Verify Customer Profile Page after Navigating from Home,"Navigate to the home page and access the customer profile page. Input information, click buttons, and navigate to appointments. Verify the displayed page.","step 1: Navigate to https://stackoverflow.com/
-step 2: Click on button
-step 3: Click on button  -> Navigate to page 'customer/profile/*'
-step 4: Enter input value in textarea 'note'
-step 5: Click on button 'Save'
-step 6: Click on link 'Appointments'
-step 7: Click on link 'Appointments'
-step 8: Take full page screenshot as checkpoint",High
-1,Verify Home Page after Logging In,Navigate to the login page and login to access the home page. Perform actions such as clicking buttons and verifying the displayed page.,"step 1: Navigate to https://stackoverflow.com/auth/login
-step 2: Click on button 'Login' -> Navigate to page ''
-step 3: Click on svg
-step 4: Click on span
-step 5: Take full page screenshot as checkpoint",High
-17,Verify Customer Profile Page after Navigating from Home,Navigate to the home page and access the customer profile page. Perform actions such as clicking buttons and verifying the page.,"step 1: Navigate to https://stackoverflow.com
-step 2: Click on link
-step 3: Click on link  -> Navigate to page 'customer/profile/*'
+step 3: Click on button 'Fu\xdfleisten'
+step 4: Click on link 'Fu\xdfleiste Exquisit - H\xf6he 58 mm' -> Navigate to page 'fussleisten'
+step 5: Click on link 'Sortiment'
+step 6: Click on button 'Fu\xdfleisten'
+step 7: Click on link 'Fu\xdfleiste Klassik - H\xf6he 40 mm' -> Navigate to page 'fussleisten/*'
+step 8: Click on link 'Artikeldetails'
+step 9: Click on div  -> Navigate to page 'service/kostenlos'
+step 10: Click on image
+step 11: Click on image
+step 12: Click on image
+step 13: Click on svg
+step 14: Click on input field 'SearchTerm' -> Navigate to page '*'
+step 15: Click on input field 'Area-Quantity 100013443'
+step 16: Take full page screenshot as checkpoint",High
+125,Verify Pagination and Navigation for Vinyl Flooring,Navigate to the vinyl flooring section and navigate through the pagination. Perform further navigation within the section and verify the displayed results.,"step 1: Navigate to https://stackoverflow.com/vinylboeden/art/klick-vinyl
+step 2: Click on button 'Filtern & Sortieren'
+step 3: Click on link 'MEHR ARTIKEL ANZEIGEN' -> Navigate to page 'paging/*'
 step 4: Click on div
-step 5: Click on span
-step 6: Take full page screenshot as checkpoint",High
-2,Verify Home Page after Navigating from Home,Navigate to the home page and input information. Verify the displayed page.,"step 1: Navigate to https://stackoverflow.com/
-step 2: Click on div
-step 3: Enter input value in input field ':r33:'
-step 4: Take full page screenshot as checkpoint",High
-18,Verify Customer Profile Page after Navigating from Home,Navigate to the login page and login to access the home page. Access the customer profile page and perform various actions such as clicking buttons and verifying the page.,"step 1: Navigate to https://stackoverflow.com/auth/login
-step 2: Click on button 'Login' -> Navigate to page ''
-step 3: Click on link
-step 4: Click on link  -> Navigate to page 'customer/profile/*'
-step 5: Click on button 'scrollable-auto-tab-2'
-step 6: Click on button 'scrollable-auto-tab-2'
-step 7: Click on button 'scrollable-auto-tab-1'
-step 8: Take full page screenshot as checkpoint",High
-19,Verify Customer Profile Page after Navigating from Home,Navigate to the home page and access the customer profile page. Perform actions such as clicking buttons and verifying the page.,"step 1: Navigate to https://stackoverflow.com/
-step 2: Click on link 'Appointments' -> Navigate to page 'customer/profile/*'
-step 3: Click on button 'scrollable-auto-tab-2'
-step 4: Click on button 'scrollable-auto-tab-1'
-step 5: Click on button 'scrollable-auto-tab-0'
-step 6: Take full page screenshot as checkpoint",High
-20,Verify Customer Profile Page after Navigating from Home,Navigate to the home page and access the customer profile page. Perform actions such as clicking buttons and verifying the page.,"step 1: Navigate to https://stackoverflow.com/
+step 5: Click on link 'MEHR ARTIKEL ANZEIGEN' -> Navigate to page 'vinylboeden/art/klick-vinyl'
+step 6: Click on svg
+step 7: Click on link  -> Navigate to page 'vinylboeden/art-des-vinylbodens/klick-vinyl/*'
+step 8: Click on div
+step 9: Click on svg
+step 10: Click on svg
+step 11: Click on svg
+step 12: Click on button
+step 13: Click on image
+step 14: Take full page screenshot as checkpoint",High
+170,Verify Feuchtraumboden page functionality,"Navigate to the Feuchtraumboden page and interact with various elements. Verify the functionality of the page, specifically the sale items.","step 1: Navigate to https://stackoverflow.com/themen-feuchtraumboeden/feuchtraum
+step 2: Click on div 'usercentrics-root'
+step 3: Click on link 'ALLE FEUCHTRAUMB\xd6DEN' -> Navigate to page 'feuchtraumboden'
+step 4: Click on link  -> Navigate to page 'feuchtraumboeden/* && bioboeden/*'
+step 5: Click on input field
+step 6: Click on input field
+step 7: Click on input field  -> Navigate to page 'feuchtraumboeden/*'
+step 8: Click on input field
+step 9: Click on input field
+step 10: Click on input field
+step 11: Click on input field
+step 12: Click on input field
+step 13: Click on input field
+step 14: Click on input field
+step 15: Click on input field
+step 16: Click on input field  -> Navigate to page '*'
+step 17: Click on div 'usercentrics-root'
+step 18: Click on list item
+step 19: Click on link 'Alle Sale Artikel' -> Navigate to page 'sale'
+step 20: Click on link 'MEHR ARTIKEL ANZEIGEN' -> Navigate to page 'sale/*'
+step 21: Take full page screenshot as checkpoint",High
+169,Verify Checkout Process and New Address Entry,Navigate through the checkout process and enter a new address. Verify the successful entry of the new address and complete the checkout process.,"step 1: Navigate to https://stackoverflow.com/
+step 2: Click on link  -> Navigate to page 'aktion/wir-raeumen-auf'
+step 3: Click on button 'Filtern & Sortieren'
+step 4: Click on header
+step 5: Click on div
+step 6: Click on div 'filter-accordion'
+step 7: Click on button '8 ARTIKEL ANZEIGEN' -> Navigate to page 'aktion/wir-raeumen-auf/*'
+step 8: Click on image
+step 9: Click on link 'IN DEN WARENKORB\n+ kostenlose D\xe4mmung und Fu\xdfleisten w\xe4hlen' -> Navigate to page 'viewdata/*'
+step 10: Click on button 'checkout'
+step 11: Click on button 'openGuestAccountForm'
+step 12: Click on label
+step 13: Click on input field
+step 14: Click on input field
+step 15: Click on input field 'billing FirstName'
+step 16: Enter input value in input field 'billing FirstName'
+step 17: Enter input value in input field 'billing LastName' -> Navigate to page 'INTERSHOP/web/WFS/LaminatDEPOT-ConsumerDE-Site/de DE/-/EUR/ViewCheckoutAddressBook-EditAddress'
+step 18: Click on link 'collapseEditNewAddressBTN'
+step 19: Click on input field
+step 20: Enter input value in input field 'newaddress FirstName'
+step 21: Enter input value in input field 'newaddress LastName'
+step 22: Enter input value in input field 'newaddress Address1'
+step 23: Enter input value in input field 'newaddress PostalCode'
+step 24: Enter input value in input field 'newaddress City' -> Navigate to page 'viewdata/*'
+step 25: Click on button 'continue' -> Navigate to page 'INTERSHOP/web/WFS/LaminatDEPOT-ConsumerDE-Site/de DE/-/EUR/ViewCheckoutAddressBook-EditAddress'
+step 26: Click on label  -> Navigate to page 'INTERSHOP/web/WFS/LaminatDEPOT-ConsumerDE-Site/de DE/-/EUR/ViewCheckoutAddressBook-UseAsShipToAddress'
+step 27: Click on div  -> Navigate to page 'INTERSHOP/web/WFS/LaminatDEPOT-ConsumerDE-Site/de DE/-/EUR/ViewUserAccount-ProcessLogin'
+step 28: Take full page screenshot as checkpoint",High
+158,Verify Sale Section Access and Filtering,Access the sale section and apply filters. View the filtered items and verify the displayed results. Perform further navigation within the sale section.,"step 1: Navigate to https://stackoverflow.com
+step 2: Click on link  -> Navigate to page 'aktion/wir-raeumen-auf/*'
+step 3: Click on input field 'Area-Quantity 100030054' -> Navigate to page 'paging/*'
+step 4: Click on div
+step 5: Click on list item
+step 6: Click on div
+step 7: Click on div
+step 8: Click on div
+step 9: Click on div  -> Navigate to page 'viewdata/*'
+step 10: Click on button 'checkout'
+step 11: Click on image
+step 12: Click on image
+step 13: Click on image
+step 14: Click on image
+step 15: Click on image
+step 16: Click on span
+step 17: Click on span
+step 18: Click on link  -> Navigate to page 'anmeldung && '
+step 19: Click on list item  -> Navigate to page 'kauf-und-zahlung/zahlung-und-zahlarten'
+step 20: Take full page screenshot as checkpoint",High
+152,Verify Order Placement and Additional Information Access,Navigate to the order placement section and place an order. Access additional information and perform navigation within the website. Verify the successful order placement.,"step 1: Navigate to https://stackoverflow.com/anmeldung &&
+step 2: Click on div 'usercentrics-root' -> Navigate to page 'paging/*'
+step 3: Click on link 'WEITER'
+step 4: Click on button 'addProductSample'
+step 5: Click on div
+step 6: Click on button 'WEITER EINKAUFEN'
+step 7: Click on link 'WEITER'
+step 8: Click on link 'WEITER'
+step 9: Click on svg
+step 10: Click on svg
+step 11: Click on link  -> Navigate to page 'laminat/* && alle-produkte/*'
+step 12: Click on image  -> Navigate to page 'paging/*'
+step 13: Click on button 'Filtern & Sortieren'
+step 14: Click on span
+step 15: Click on span
+step 16: Click on span
+step 17: Click on link 'hell' -> Navigate to page 'alleboeden'
+step 18: Click on span
+step 19: Click on span
+step 20: Click on span
+step 21: Click on span
+step 22: Click on link 'Ja, nur Warmwasser-Fu\xdfbodenheizung'
+step 23: Click on span
+step 24: Click on span
+step 25: Click on span
+step 26: Click on span
+step 27: Click on span
+step 28: Click on link 'Wei\xdf'
+step 29: Take full page screenshot as checkpoint",High
+151,Verify Navigation and Flooring Selection,Navigate to the flooring section and select a type of flooring. Apply filters and view the available options. Verify the displayed results and perform further navigation within the section.,"step 1: Navigate to https://stackoverflow.com/
+step 2: Click on div 'usercentrics-root'
+step 3: Click on div
+step 4: Click on div
+step 5: Click on div
+step 6: Click on div
+step 7: Click on div 'splide01'
+step 8: Click on link 'Sortiment'
+step 9: Click on svg  -> Navigate to page 'paging/*'
+step 10: Click on link 'ZUR\xdcCK'
+step 11: Click on link  -> Navigate to page 'laminat/optik/fliesenoptik/*'
+step 12: Click on image
+step 13: Click on image
+step 14: Click on svg
+step 15: Click on input field 'Area-Quantity 100028140'
+step 16: Click on input field 'Area-Quantity 100028140'
+step 17: Enter input value in input field 'Area-Quantity 100028140'
+step 18: Click on i
+step 19: Click on input field
+step 20: Click on div
+step 21: Click on link 'Laminat' -> Navigate to page 'laminat'
+step 22: Click on button 'Filtern & Sortieren'
+step 23: Click on header
+step 24: Click on input field
+step 25: Click on header
+step 26: Click on input field
+step 27: Enter input value in input field
+step 28: Click on button '25 ARTIKEL ANZEIGEN'
+step 29: Click on link 'WEITER' -> Navigate to page 'paging/*'
+step 30: Click on link 'WEITER' -> Navigate to page 'laminat/*'
+step 31: Click on link 'Bodenberater'
+step 32: Click on div
+step 33: Click on input field
+step 34: Click on list item
+step 35: Click on input field
+step 36: Click on list item
+step 37: Click on input field
+step 38: Click on button 'OK - WEITER'
+step 39: Click on header
+step 40: Click on input field
+step 41: Click on div
+step 42: Click on p
+step 43: Click on div
+step 44: Click on p
+step 45: Click on p
+step 46: Click on p
+step 47: Click on button 'VERSTANDEN'
+step 48: Click on button
+step 49: Click on button 'OK - WEITER'
+step 50: Click on header
+step 51: Click on input field
+step 52: Click on button 'OK - WEITER'
+step 53: Click on div
+step 54: Click on input field
+step 55: Click on button 'OK - WEITER'
+step 56: Click on div
+step 57: Click on input field
+step 58: Click on button 'OK - WEITER'
+step 59: Click on image
+step 60: Click on input field
+step 61: Click on image
+step 62: Click on input field
+step 63: Click on button 'OK - WEITER'
+step 64: Click on button 'B\xd6DEN ANZEIGEN' -> Navigate to page 'bodenberater ergebnisse'
+step 65: Click on button 'Filtern & Sortieren\n16'
+step 66: Click on link '60' -> Navigate to page 'paging/*'
+step 67: Click on span
+step 68: Click on div
+step 69: Click on button 'Filtern & Sortieren\n16'
+step 70: Click on div
+step 71: Click on button 'Filtern & Sortieren\n16'
+step 72: Click on header
+step 73: Click on link 'Preis aufsteigend' -> Navigate to page 'bodenberater ergebnisse'
+step 74: Click on header
+step 75: Click on link 'Preis absteigend'
+step 76: Click on svg
+step 77: Click on link 'WEITER' -> Navigate to page 'paging/*'
+step 78: Click on link 'WEITER'
+step 79: Click on link 'WEITER'
+step 80: Click on link 'WEITER'
+step 81: Click on link  -> Navigate to page 'bodenberater/*'
+step 82: Click on input field
+step 83: Take full page screenshot as checkpoint",High
+23,Verify Floor Advisor and Vinyl Flooring Selection,Navigate to the floor advisor section and select vinyl flooring. Filter and view the available vinyl flooring options. Verify the displayed results and perform further navigation.,"step 1: Navigate to https://stackoverflow.com/filiale/porta-westfalica
+step 2: Click on div 'usercentrics-root' -> Navigate to page 'filiale/hamm && filiale/porta-westfalica && filiale/muelheim && filiale/dortmund && filiale/wuppertal && filiale/gelsenkirchen && filiale/bielefeld'
+step 3: Click on link 'Bodenberater' -> Navigate to page 'filiale/porta-westfalica && filiale/velbert'
+step 4: Click on image
+step 5: Click on input field
+step 6: Click on button 'OK - WEITER'
+step 7: Click on header
+step 8: Click on input field
+step 9: Click on div
+step 10: Click on button 'VERSTANDEN'
+step 11: Click on button
+step 12: Click on button 'OK - WEITER'
+step 13: Click on image
+step 14: Click on input field
+step 15: Click on button 'OK - WEITER'
+step 16: Click on div
+step 17: Click on input field
+step 18: Click on button 'OK - WEITER'
+step 19: Click on div
+step 20: Click on input field
+step 21: Click on button 'OK - WEITER'
+step 22: Click on image
+step 23: Click on input field
+step 24: Click on image
+step 25: Click on input field
+step 26: Click on button 'OK - WEITER'
+step 27: Click on button 'B\xd6DEN ANZEIGEN' -> Navigate to page 'bodenberater ergebnisse'
+step 28: Click on svg
+step 29: Click on svg
+step 30: Click on link 'Klick-Vinyl' -> Navigate to page 'vinylboeden/art/klick-vinyl'
+step 31: Click on button 'Filtern & Sortieren'
+step 32: Click on span
+step 33: Click on link 'Grau'
+step 34: Click on button '55 ARTIKEL ANZEIGEN'
+step 35: Click on header
+step 36: Click on header
+step 37: Click on link 'Eiche'
+step 38: Click on link 'Pinie'
+step 39: Click on button '32 ARTIKEL ANZEIGEN'
+step 40: Click on link  -> Navigate to page 'vinylboeden/art-des-vinylbodens/klick-vinyl/*'
+step 41: Click on label
+step 42: Click on input field  -> Navigate to page 'vinylboeden/art/klick-vinyl'
+step 43: Click on link 'MEHR ARTIKEL ANZEIGEN' -> Navigate to page 'paging/*'
+step 44: Take full page screenshot as checkpoint",High
+135,Verify Navigation and Vinyl Flooring Details,Navigate to the vinyl flooring section and access the details of a specific vinyl flooring. Verify the displayed details and ensure proper navigation within the section.,"step 1: Navigate to https://stackoverflow.com/anmeldung &&
+step 2: Click on link  -> Navigate to page 'aktion/wir-raeumen-auf'
+step 3: Click on link '\n' -> Navigate to page 'vinylboeden'
+step 4: Click on link 'MEHR ARTIKEL ANZEIGEN' -> Navigate to page 'paging/*'
+step 5: Click on link 'MEHR ARTIKEL ANZEIGEN'
+step 6: Click on link 'MEHR ARTIKEL ANZEIGEN' -> Navigate to page 'ueber-uns/filialen'
+step 7: Click on link '\n' -> Navigate to page 'paging/*'
+step 8: Click on link 'MEHR ARTIKEL ANZEIGEN'
+step 9: Click on link 'Rigid-Vinyl Vancouver coffee\n\nSet mit integrierter D\xe4mmung und Fu\xdfleiste' -> Navigate to page 'vinylboeden/art-des-vinylbodens/rigid-vinyl/*'
+step 10: Click on link 'Artikeldetails'
+step 11: Take full page screenshot as checkpoint",High
+134,Verify Sale Section Access and Item Filtering,Access the sale section and filter the items. View the filtered items and verify the displayed results. Perform further navigation within the sale section.,"step 1: Navigate to https://stackoverflow.com/sale
 step 2: Click on link
+step 3: Click on link  -> Navigate to page 'sale/*'
+step 4: Click on image
+step 5: Click on image
+step 6: Click on image
+step 7: Click on image  -> Navigate to page 'anmeldung && '
+step 8: Click on link  -> Navigate to page 'aktion/wir-raeumen-auf'
+step 9: Click on button 'Filtern & Sortieren' -> Navigate to page 'aktion/wir-raeumen-auf && paging/*'
+step 10: Click on header
+step 11: Click on link '23 / 34 / 42' -> Navigate to page 'aktion/wir-raeumen-auf'
+step 12: Click on link '23 / 33'
+step 13: Click on link '33'
+step 14: Click on link '32'
+step 15: Click on link '23 / 32'
+step 16: Click on button '56 ARTIKEL ANZEIGEN'
+step 17: Click on button 'Filtern & Sortieren\n2'
+step 18: Click on header
+step 19: Click on header
+step 20: Click on span
+step 21: Click on span
+step 22: Click on span
+step 23: Click on button '56 ARTIKEL ANZEIGEN'
+step 24: Click on link 'Laminat Palace Oak natur\n\nSet inklusive D\xe4mmung und Fu\xdfleiste'
+step 25: Click on link 'MEHR ARTIKEL ANZEIGEN' -> Navigate to page 'paging/*'
+step 26: Click on link 'WEITER'
+step 27: Click on link 'MEHR ARTIKEL ANZEIGEN'
+step 28: Click on link 'RESTPOSTEN\nRigid-Vinyl Eiche Frankfurt\n\nSet mit integrierter D\xe4mmung und Fu\xdfleiste' -> Navigate to page 'aktion/wir-raeumen-auf/*'
+step 29: Click on div
+step 30: Click on image  -> Navigate to page 'vinylboeden/art/rigid-vinyl'
+step 31: Click on button 'Filtern & Sortieren'
+step 32: Click on header
+step 33: Click on link '23 / 33'
+step 34: Click on header
+step 35: Click on link 'verf\xfcgbar in Filiale Bochum\n\xa0(Filiale \xe4ndern)'
+step 36: Click on header
+step 37: Click on span
+step 38: Click on span
+step 39: Click on header
+step 40: Click on link 'Eiche'
+step 41: Click on button '33 ARTIKEL ANZEIGEN'
+step 42: Click on button 'Filtern & Sortieren\n3'
+step 43: Click on header
+step 44: Click on link 'Preis aufsteigend'
+step 45: Click on button '33 ARTIKEL ANZEIGEN'
+step 46: Click on button 'Filtern & Sortieren\n3'
+step 47: Click on link '36'
+step 48: Click on button '33 ARTIKEL ANZEIGEN'
+step 49: Click on link 'MEHR ARTIKEL ANZEIGEN' -> Navigate to page 'paging/*'
+step 50: Click on link 'MEHR ARTIKEL ANZEIGEN'
+step 51: Click on list
+step 52: Click on span
+step 53: Click on link '1'
+step 54: Click on link 'Rigid-Vinyl Glasgow\n\nSet mit integrierter D\xe4mmung und Fu\xdfleiste' -> Navigate to page 'vinylboeden/art-des-vinylbodens/rigid-vinyl/*'
+step 55: Click on image
+step 56: Take full page screenshot as checkpoint",High
+127,Verify Location Search and Floor Selection,Perform a location search and access the floor selection section. Filter and view the available floors. Verify the displayed results and perform further navigation.,"step 1: Navigate to https://stackoverflow.com/ueber-uns/filialen
+step 2: Click on link '\n'
+step 3: Enter input value in input field
+step 4: Click on link ' STANDORT ERMITTELN'
+step 5: Click on div 'usercentrics-root'
+step 6: Click on button 'AKZEPTIEREN'
+step 7: Click on link
+step 8: Click on button 'AKZEPTIEREN'
+step 9: Click on button 'AKZEPTIEREN'
+step 10: Click on button 'AKZEPTIEREN'
+step 11: Click on button 'AKZEPTIEREN'
+step 12: Click on svg  -> Navigate to page 'viewdata/*'
+step 13: Click on link 'WEITER EINKAUFEN' -> Navigate to page 'vinylboeden'
+step 14: Click on button 'Filtern & Sortieren'
+step 15: Click on link '60' -> Navigate to page 'paging/*'
+step 16: Click on div
+step 17: Click on span
+step 18: Click on link 'Preis aufsteigend' -> Navigate to page 'vinylboeden'
+step 19: Click on button '210 ARTIKEL ANZEIGEN'
+step 20: Click on link  -> Navigate to page 'vinylboeden/*'
+step 21: Take full page screenshot as checkpoint",High
+141,Verify Search and Navigation on Home Page,Navigate to the home page and perform a search. Verify the search results and ensure proper navigation within the website.,"step 1: Navigate to https://stackoverflow.com/vinylboeden/art/klick-vinyl
+step 2: Click on div 'usercentrics-root' -> Navigate to page ''
+step 3: Click on input field 'SearchTerm' -> Navigate to page 'aktion/vinyl-stark-reduziert/*'
+step 4: Click on image
+step 5: Click on button 'lg-next-1'
+step 6: Click on button 'lg-next-1'
+step 7: Click on button 'lg-next-1'
+step 8: Click on button 'lg-next-1'
+step 9: Click on button 'lg-next-1'
+step 10: Click on svg
+step 11: Click on button 'lg-next-1'
+step 12: Click on image
+step 13: Click on button 'lg-close-1'
+step 14: Click on input field 'SearchTerm'
+step 15: Enter input value in input field 'SearchTerm'
+step 16: Click on div  -> Navigate to page 'search/*'
+step 17: Take full page screenshot as checkpoint",High
+124,Verify Filtering and Pagination for Vinyl Flooring,Navigate to the vinyl flooring section and apply filters. Verify the pagination functionality and view the filtered items.,"step 1: Navigate to https://stackoverflow.com/vinylboeden/art/klick-vinyl
+step 2: Click on button 'Filtern & Sortieren'
+step 3: Click on div 'usercentrics-root'
+step 4: Click on div 'usercentrics-root'
+step 5: Click on div 'usercentrics-root'
+step 6: Click on button 'Filtern & Sortieren'
+step 7: Click on span
+step 8: Click on span
+step 9: Click on span
+step 10: Click on link '23 / 33'
+step 11: Click on link '23 / 34 / 42'
+step 12: Click on header
+step 13: Click on link '1-Stab / Landhausdiele'
+step 14: Click on span
+step 15: Click on link 'Breitdiele'
+step 16: Click on button '6 ARTIKEL ANZEIGEN'
+step 17: Click on link  -> Navigate to page 'vinylboeden/art-des-vinylbodens/klick-vinyl/*'
+step 18: Click on image
+step 19: Take full page screenshot as checkpoint",High
+110,Verify Checkout and Additional Information Access,Navigate to the checkout process and proceed with the order. Access additional information and perform navigation within the website.,"step 1: Navigate to https://stackoverflow.com/vinylboeden/art/rigid-vinyl
+step 2: Click on input field 'SearchTerm' -> Navigate to page '*'
+step 3: Click on svg  -> Navigate to page 'viewdata/*'
+step 4: Click on button 'checkout'
+step 5: Click on button 'checkout' -> Navigate to page ''
+step 6: Click on link 'Mehr erfahren ' -> Navigate to page 'ueber-uns/filialen'
+step 7: Take full page screenshot as checkpoint",High
+93,Verify Navigation and Sale Section Access,Navigate to the sale section and view the available items. Perform navigation within the sale section and verify the displayed results.,"step 1: Navigate to https://stackoverflow.com
+step 2: Click on input field 'SearchTerm' -> Navigate to page 'aktion/vinyl-stark-reduziert/*'
+step 3: Click on link 'Sale' -> Navigate to page 'sale/alle-sale'
+step 4: Click on button 'Filtern & Sortieren'
+step 5: Click on header
+step 6: Click on header
+step 7: Click on div
+step 8: Click on span
+step 9: Click on input field
+step 10: Click on button '4 ARTIKEL ANZEIGEN'
+step 11: Click on link 'Home' -> Navigate to page ''
+step 12: Click on link  -> Navigate to page 'aktion/wir-raeumen-auf/*'
+step 13: Click on link 'Home' -> Navigate to page 'aktion/wir-raeumen-auf'
+step 14: Take full page screenshot as checkpoint",High
+81,Verify Order Placement and Account Navigation,Navigate to the order placement section and place an order. Accept the terms and conditions and proceed with the order. Verify the successful order placement and navigate to the account section.,"step 1: Navigate to https://stackoverflow.com
+step 2: Click on input field 'SearchTerm' -> Navigate to page 'anmeldung && '
+step 3: Click on svg  -> Navigate to page 'viewdata/*'
+step 4: Click on button 'continue'
+step 5: Click on label
+step 6: Click on input field 'termsAndConditions'
+step 7: Click on button 'sendOrder'
+step 8: Click on link 'WEITER EINKAUFEN' -> Navigate to page ''
+step 9: Click on svg  -> Navigate to page 'account'
+step 10: Click on link 'Details' -> Navigate to page 'viewdata/*'
+step 11: Click on link 'Zahlung'
+step 12: Take full page screenshot as checkpoint",High
+80,Verify Checkout Process and New Customer Account Creation,Navigate through the checkout process and create a new customer account. Enter the required details and complete the checkout. Verify the successful creation of the new customer account.,"step 1: Navigate to https://stackoverflow.com/filiale/hannover && filiale/bietigheim && filiale/hamm && filiale/porta-westfalica && filiale/muelheim && filiale/velbert && filiale/iserlohn && filiale/gelsenkirchen && filiale/solingen && filiale/dortmund && filiale/duisburg && filiale/wuppertal && filiale/paderborn && filiale/hamburg && filiale/bielefeld && filiale/bochum && filiale/lippstadt
+step 2: Click on div 'usercentrics-root' -> Navigate to page 'filiale/hamm && filiale/porta-westfalica && filiale/muelheim && filiale/dortmund && filiale/wuppertal && filiale/gelsenkirchen && filiale/bielefeld'
+step 3: Click on link  -> Navigate to page 'viewdata/*'
+step 4: Click on link 'Sortiment'
+step 5: Click on button 'Laminat'
+step 6: Click on link 'Alle Laminat-B\xf6den' -> Navigate to page 'laminat'
+step 7: Click on button 'Filtern & Sortieren'
+step 8: Click on div
+step 9: Click on header
+step 10: Click on header
+step 11: Click on span
+step 12: Click on span
+step 13: Click on header
+step 14: Click on button '155 ARTIKEL ANZEIGEN'
+step 15: Click on svg
+step 16: Click on link  -> Navigate to page 'laminat/*'
+step 17: Click on link 'Boden virtuell verlegen'
+step 18: Click on div
+step 19: Click on svg
+step 20: Click on span
+step 21: Click on span
+step 22: Click on div
+step 23: Click on link  -> Navigate to page 'aktion/wir-raeumen-auf'
+step 24: Click on button 'Filtern & Sortieren'
+step 25: Click on span
+step 26: Click on header
+step 27: Click on header
+step 28: Click on link 'Preis aufsteigend'
+step 29: Click on button '113 ARTIKEL ANZEIGEN' -> Navigate to page 'aktion/wir-raeumen-auf/*'
+step 30: Click on link 'IN DEN WARENKORB\n+ kostenlose D\xe4mmung und Fu\xdfleisten w\xe4hlen' -> Navigate to page 'viewdata/*'
+step 31: Click on button 'checkout'
+step 32: Click on button 'openNewCustomerAccountForm'
+step 33: Click on input field
+step 34: Click on input field 'billing FirstName'
+step 35: Click on fieldset
+step 36: Enter input value in input field 'billing Address1'
+step 37: Click on div
+step 38: Enter input value in input field 'billing PostalCode'
+step 39: Enter input value in input field 'billing City'
+step 40: Click on div
+step 41: Enter input value in input field 'billing PhoneHome'
+step 42: Click on input field 'billing Password'
+step 43: Click on button 'continue'
+step 44: Click on div
+step 45: Click on button 'continue'
+step 46: Click on input field
+step 47: Click on button 'continue'
+step 48: Take full page screenshot as checkpoint",High
+26,Verify Pagination and Filtering for Laminate Flooring,Navigate to the laminate flooring section and apply filters. Verify the pagination functionality and ensure proper filtering of the displayed items.,"step 1: Navigate to https://stackoverflow.com/laminat
+step 2: Click on button 'Filtern & Sortieren'
+step 3: Click on link 'WEITER' -> Navigate to page 'paging/*'
+step 4: Click on link 'MEHR ARTIKEL ANZEIGEN'
+step 5: Click on link 'WEITER'
+step 6: Click on link 'WEITER'
+step 7: Click on button
+step 8: Click on svg
+step 9: Click on svg
+step 10: Click on link 'WEITER'
+step 11: Click on span
+step 12: Click on button 'Filtern & Sortieren'
+step 13: Click on link '60'
+step 14: Click on header
+step 15: Click on input field
+step 16: Click on input field
+step 17: Click on span
+step 18: Click on span
+step 19: Click on input field
+step 20: Click on input field
+step 21: Enter input value in input field
+step 22: Click on link
+step 23: Click on button '16 ARTIKEL ANZEIGEN'
+step 24: Click on svg
+step 25: Click on link
+step 26: Click on svg
+step 27: Take full page screenshot as checkpoint",High
+25,Verify Filtering and Pagination for Vinyl Flooring,Navigate to the vinyl flooring section and apply filters. View the filtered items and verify the pagination functionality.,"step 1: Navigate to https://stackoverflow.com/aktion/wir-raeumen-auf
+step 2: Click on button 'Filtern & Sortieren\n2'
+step 3: Click on button '18 ARTIKEL ANZEIGEN'
+step 4: Click on image
+step 5: Click on link 'Sortiment'
+step 6: Click on button 'Vinylb\xf6den'
+step 7: Click on link 'Klick-Vinyl' -> Navigate to page 'vinylboeden/art/klick-vinyl'
+step 8: Click on button 'Filtern & Sortieren'
+step 9: Click on span
+step 10: Click on span
+step 11: Click on span
+step 12: Click on span
+step 13: Click on button '30 ARTIKEL ANZEIGEN'
+step 14: Click on link 'WEITER' -> Navigate to page 'paging/*'
+step 15: Take full page screenshot as checkpoint",High
+24,Verify Sale Items and Filtering,Navigate to the sale section and filter the items. View the filtered items and verify the displayed results. Perform further navigation within the sale section.,"step 1: Navigate to https://stackoverflow.com
+step 2: Click on link  -> Navigate to page 'aktion/wir-raeumen-auf/*'
+step 3: Click on image
+step 4: Click on image
+step 5: Click on image
+step 6: Click on image
+step 7: Click on image
+step 8: Click on image  -> Navigate to page 'aktion/wir-raeumen-auf'
+step 9: Click on button 'Filtern & Sortieren'
+step 10: Click on image
+step 11: Click on svg
+step 12: Click on button 'Sale'
+step 13: Click on link 'Alle Sale Artikel' -> Navigate to page 'sale'
+step 14: Click on svg
+step 15: Click on svg
+step 16: Click on svg
+step 17: Click on list item  -> Navigate to page 'laminat'
+step 18: Click on svg
+step 19: Click on link 'MEHR ARTIKEL ANZEIGEN' -> Navigate to page 'paging/*'
+step 20: Click on svg
+step 21: Click on button
+step 22: Click on link 'MEHR ARTIKEL ANZEIGEN'
+step 23: Click on svg
+step 24: Click on svg
+step 25: Click on svg
+step 26: Click on link 'MEHR ARTIKEL ANZEIGEN'
+step 27: Click on link 'MEHR ARTIKEL ANZEIGEN'
+step 28: Click on svg
+step 29: Click on svg
+step 30: Click on link 'MEHR ARTIKEL ANZEIGEN'
+step 31: Take full page screenshot as checkpoint",High
+123,Verify Vinyl Flooring Comparison,Navigate to the vinyl flooring section and compare the available options. Verify the displayed results and ensure proper comparison functionality.,"step 1: Navigate to https://stackoverflow.com
+step 2: Click on input field 'SearchTerm' -> Navigate to page '*'
+step 3: Click on div 'usercentrics-root'
+step 4: Click on div
+step 5: Click on link 'Sortiment'
+step 6: Click on button 'Vinylb\xf6den'
+step 7: Click on list item
+step 8: Click on link 'Klick-Vinyl' -> Navigate to page 'vinylboeden/art/klick-vinyl'
+step 9: Click on link  -> Navigate to page 'vinylboeden/art-des-vinylbodens/klick-vinyl/*'
+step 10: Click on link 'Vergleichen'
+step 11: Take full page screenshot as checkpoint",High
+30,Verify Filiale Hannover page functionality,"Navigate to the FilialeHannover page and interact with various elements. Save and view data, and verify the functionality of the page.","step 1: Navigate to https://stackoverflow.com/filiale/hannover && filiale/bietigheim && filiale/hamm && filiale/porta-westfalica && filiale/muelheim && filiale/velbert && filiale/iserlohn && filiale/gelsenkirchen && filiale/solingen && filiale/dortmund && filiale/duisburg && filiale/wuppertal && filiale/paderborn && filiale/hamburg && filiale/bielefeld && filiale/bochum && filiale/lippstadt
+step 2: Click on input field 'SearchTerm' -> Navigate to page '*'
+step 3: Click on div 'usercentrics-root'
+step 4: Click on svg  -> Navigate to page 'viewdata/*'
+step 5: Click on svg
+step 6: Click on span
+step 7: Click on button 'SPEICHERN'
+step 8: Click on button
+step 9: Click on div
+step 10: Click on input field
+step 11: Enter input value in input field
+step 12: Click on div
+step 13: Click on div
+step 14: Click on div
+step 15: Click on svg  -> Navigate to page 'paging/*'
+step 16: Take full page screenshot as checkpoint",High
+33,Verify Filiale Hannover page functionality,"Navigate to the FilialeHannover page and interact with various elements. Filter and sort items, and verify the functionality of the page, specifically the displayed items.","step 1: Navigate to https://stackoverflow.com/filiale/hannover && filiale/bietigheim && filiale/essen && filiale/hamm && filiale/porta-westfalica && filiale/velbert && filiale/muelheim && filiale/iserlohn && filiale/gelsenkirchen && filiale/solingen && filiale/dortmund && filiale/duisburg && filiale/wuppertal && filiale/paderborn && filiale/hamburg && filiale/bielefeld && filiale/bochum && filiale/lippstadt
+step 2: Click on div 'usercentrics-root' -> Navigate to page 'filiale/velbert'
+step 3: Click on button 'Laminat' -> Navigate to page 'laminat'
+step 4: Click on button 'Filtern & Sortieren'
+step 5: Click on header
+step 6: Click on link 'Grau\n'
+step 7: Click on svg
+step 8: Click on svg
+step 9: Click on svg
+step 10: Click on svg  -> Navigate to page 'paging/*'
+step 11: Click on button
+step 12: Click on svg
+step 13: Click on svg
+step 14: Click on svg
+step 15: Click on svg
+step 16: Click on svg
+step 17: Click on svg
+step 18: Click on svg
+step 19: Click on svg
+step 20: Click on svg
+step 21: Click on svg
+step 22: Click on button
+step 23: Click on svg
+step 24: Click on svg
+step 25: Take full page screenshot as checkpoint",High
+32,Verify Account page functionality,Navigate to the Account page and interact with various elements. View details and view the sortiment. Verify the functionality of the page.,"step 1: Navigate to https://stackoverflow.com
+step 2: Click on input field 'SearchTerm' -> Navigate to page '*'
+step 3: Click on svg  -> Navigate to page 'account'
+step 4: Click on link 'Details' -> Navigate to page 'viewdata/*'
+step 5: Click on div
+step 6: Click on link  -> Navigate to page '*'
+step 7: Click on link 'Sortiment'
+step 8: Click on list item
+step 9: Click on link 'hell' -> Navigate to page 'laminat/farbgebung/hell'
+step 10: Click on link 'MEHR ARTIKEL ANZEIGEN' -> Navigate to page 'paging/*'
+step 11: Click on button
+step 12: Take full page screenshot as checkpoint",High
+31,Verify Zubehoer Schienen Bodenprofile Alle Schienen Bodenprofile page navigation,"Navigate to the ZubehoerSchienenBodenprofileAlleSchienenBodenprofile page and interact with various elements. Verify the functionality of the page, specifically the displayed items.","step 1: Navigate to https://stackoverflow.com/zubehoer/schienen-bodenprofile/alle-schienen-bodenprofile
+step 2: Click on header
 step 3: Click on span
-step 4: Click on button 'Checkout' -> Navigate to page 'customer/profile/*'
-step 5: Click on svg 'EditIcon'
-step 6: Take full page screenshot as checkpoint",Medium
+step 4: Click on span
+step 5: Click on span
+step 6: Click on svg
+step 7: Click on link 'WEITER' -> Navigate to page 'paging/*'
+step 8: Click on link 'WEITER'
+step 9: Click on svg
+step 10: Click on svg
+step 11: Click on svg
+step 12: Click on link
+step 13: Take full page screenshot as checkpoint",High
+20,Verify Vinylboeden page and item selection,Navigate to the Vinylboeden page and select items. Interact with different elements on the page and verify the functionality of the Vinylboeden page.,"step 1: Navigate to https://stackoverflow.com/vinylboeden
+step 2: Click on span
+step 3: Click on link 'klicken'
+step 4: Click on span
+step 5: Click on span
+step 6: Click on input field
+step 7: Enter input value in input field
+step 8: Click on div
+step 9: Click on input field
+step 10: Enter input value in input field
+step 11: Click on div
+step 12: Click on button 'FILIALE W\xc4HLEN'
+step 13: Click on list item
+step 14: Click on button '\xdcBERNEHMEN'
+step 15: Click on button '38 ARTIKEL ANZEIGEN'
+step 16: Click on link 'WEITER' -> Navigate to page 'paging/*'
+step 17: Click on link 'WEITER' -> Navigate to page ''
+step 18: Take full page screenshot as checkpoint",High
+29,Verify Vinylweiss page item selection,Navigate to the Vinylweiss page and select items. Interact with different elements on the page and verify the functionality of the Vinylweiss page.,"step 1: Navigate to https://stackoverflow.com/vinylweiss
+step 2: Click on list
+step 3: Click on span
+step 4: Click on link 'Eiche'
+step 5: Click on span
+step 6: Click on link 'hell'
+step 7: Click on button '29 ARTIKEL ANZEIGEN'
+step 8: Click on span
+step 9: Click on list
+step 10: Click on list
+step 11: Click on link 'WEITER' -> Navigate to page 'paging/*'
+step 12: Take full page screenshot as checkpoint",High
+28,Verify Aktion Wir Raeumen Auf page navigation,Navigate to the AktionWirRaeumenAuf page and interact with various elements. Verify the filtering and sorting functionality and the displayed items.,"step 1: Navigate to https://stackoverflow.com/
+step 2: Click on link  -> Navigate to page 'aktion/wir-raeumen-auf/*'
+step 3: Click on image
+step 4: Click on image
+step 5: Click on image
+step 6: Click on image
+step 7: Click on image
+step 8: Click on image  -> Navigate to page 'aktion/wir-raeumen-auf'
+step 9: Click on button 'Filtern & Sortieren'
+step 10: Click on link '3' -> Navigate to page 'paging/*'
+step 11: Click on link 'WEITER'
+step 12: Click on link 'WEITER'
+step 13: Take full page screenshot as checkpoint",High
+27,Verify Vinylboeden Art Klick Vinyl page navigation,Navigate to the VinylboedenArtKlickVinyl page and interact with the filtering and sorting options. Verify the displayed items and the functionality of the page.,"step 1: Navigate to https://stackoverflow.com/vinylboeden/art/klick-vinyl
+step 2: Click on button 'Filtern & Sortieren'
+step 3: Click on header
+step 4: Click on link 'Eiche'
+step 5: Click on link '48'
+step 6: Click on button '125 ARTIKEL ANZEIGEN' -> Navigate to page 'paging/*'
+step 7: Click on link  -> Navigate to page 'vinylboeden/art-des-vinylbodens/klick-vinyl/*'
+step 8: Click on image
+step 9: Click on div  -> Navigate to page 'paging/*'
+step 10: Click on link 'WEITER'
+step 11: Take full page screenshot as checkpoint",High
+34,Verify Laminat BDen page functionality,"Navigate to the LaminatBDen page and interact with various elements. Filter and sort items, and verify the functionality of the page, specifically the displayed items.","step 1: Navigate to https://stackoverflow.com
+step 2: Click on link  -> Navigate to page 'paging/*'
+step 3: Click on list
+step 4: Click on button 'Laminat'
+step 5: Click on link 'Alle Laminat-B\xf6den' -> Navigate to page 'laminat'
+step 6: Click on button 'Filtern & Sortieren'
+step 7: Click on header
+step 8: Click on link 'Preis aufsteigend'
+step 9: Click on button '154 ARTIKEL ANZEIGEN'
+step 10: Click on link 'WEITER' -> Navigate to page 'paging/*'
+step 11: Click on link 'WEITER'
+step 12: Click on button 'addToWishlistProduct'
+step 13: Take full page screenshot as checkpoint",High

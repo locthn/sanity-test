@@ -1,0 +1,31 @@
+{
+    "steps": [
+        "step 1: Navigate to https://stackoverflow.com/laminat",
+        "step 2: Click on button 'Filtern & Sortieren'",
+        "step 3: Click on link 'WEITER' -> Navigate to page 'paging/*'",
+        "step 4: Click on link 'MEHR ARTIKEL ANZEIGEN'",
+        "step 5: Click on link 'WEITER'",
+        "step 6: Click on link 'WEITER'",
+        "step 7: Click on button",
+        "step 8: Click on svg",
+        "step 9: Click on svg",
+        "step 10: Click on link 'WEITER'",
+        "step 11: Click on span",
+        "step 12: Click on button 'Filtern & Sortieren'",
+        "step 13: Click on link '60'",
+        "step 14: Click on header",
+        "step 15: Click on input field",
+        "step 16: Click on input field",
+        "step 17: Click on span",
+        "step 18: Click on span",
+        "step 19: Click on input field",
+        "step 20: Click on input field",
+        "step 21: Enter input value in input field",
+        "step 22: Click on link",
+        "step 23: Click on button '16 ARTIKEL ANZEIGEN'",
+        "step 24: Click on svg",
+        "step 25: Click on link",
+        "step 26: Click on svg",
+        "step 27: Take full page screenshot as checkpoint"
+    ]
+}

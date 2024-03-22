@@ -1,0 +1,15 @@
+{
+    "steps": [
+        "step 1: Navigate to https://stackoverflow.com/vinylboeden/art/klick-vinyl",
+        "step 2: Click on button 'Filtern & Sortieren'",
+        "step 3: Click on header",
+        "step 4: Click on link 'Eiche'",
+        "step 5: Click on link '48'",
+        "step 6: Click on button '125 ARTIKEL ANZEIGEN' -> Navigate to page 'paging/*'",
+        "step 7: Click on link  -> Navigate to page 'vinylboeden/art-des-vinylbodens/klick-vinyl/*'",
+        "step 8: Click on image",
+        "step 9: Click on div  -> Navigate to page 'paging/*'",
+        "step 10: Click on link 'WEITER'",
+        "step 11: Take full page screenshot as checkpoint"
+    ]
+}
